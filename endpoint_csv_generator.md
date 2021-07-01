@@ -1,4 +1,4 @@
-*CSV Generator*
+# CSV Generator*
 
 **Platform:**
 * Support for elastic scaling in Kubernetes

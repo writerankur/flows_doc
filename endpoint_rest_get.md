@@ -1,4 +1,4 @@
-*REST Get*
+# REST GET
 
 **Platform:**
 * Support for elastic scaling in Kubernetes

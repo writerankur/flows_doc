@@ -1,4 +1,4 @@
-*Flow Copy*
+# Flow Copy
 
 **Platform:**
 * Support for elastic scaling in Kubernetes

@@ -1,4 +1,4 @@
-*Googlesheet Writer*
+# Googlesheet Writer*
 
 **Platform:**
 * Support for elastic scaling in Kubernetes

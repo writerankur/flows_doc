@@ -1,4 +1,4 @@
-*Email sender*
+# Email sender
 
 **Platform:**
 * Support for elastic scaling in Kubernetes
