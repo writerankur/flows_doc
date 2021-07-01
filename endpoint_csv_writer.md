@@ -1,4 +1,4 @@
-# CSV Writer*
+# CSV Writer
 
 **Platform:**
 * Support for elastic scaling in Kubernetes

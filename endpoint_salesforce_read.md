@@ -1,4 +1,4 @@
-# Salesforce Reader*
+# Salesforce Reader
 
 **Platform:**
 * Support for elastic scaling in Kubernetes

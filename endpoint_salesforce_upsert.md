@@ -1,4 +1,4 @@
-# Salesforce Upsert*
+# Salesforce Upsert
 
 **Platform:**
 * Support for elastic scaling in Kubernetes

@@ -1,4 +1,4 @@
-# Salesforce Listerner*
+# Salesforce Listerner
 
 **Platform:**
 * Support for elastic scaling in Kubernetes

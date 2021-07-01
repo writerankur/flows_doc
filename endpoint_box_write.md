@@ -1,4 +1,4 @@
-#Box Write*
+# Box Write
 
 **Platform:**
 * Support for elastic scaling in Kubernetes

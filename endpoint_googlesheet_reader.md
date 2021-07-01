@@ -1,4 +1,4 @@
-# Google sheet Reader*
+# Google sheet Reader
 
 **Platform:**
 * Support for elastic scaling in Kubernetes

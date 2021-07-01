@@ -1,4 +1,4 @@
-# CSV Reader*
+# CSV Reader
 
 **Platform:**
 * Support for elastic scaling in Kubernetes
