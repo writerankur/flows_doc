@@ -1,4 +1,4 @@
-*Salesforce Create*
+*Marketo Read*
 
 **Platform:**
 * Support for elastic scaling in Kubernetes

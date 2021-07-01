@@ -1,4 +1,4 @@
-*Salesforce Create*
+*Salesforce Upsert*
 
 **Platform:**
 * Support for elastic scaling in Kubernetes

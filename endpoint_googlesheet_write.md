@@ -1,4 +1,4 @@
-*Salesforce Create*
+*Googlesheet Writer*
 
 **Platform:**
 * Support for elastic scaling in Kubernetes

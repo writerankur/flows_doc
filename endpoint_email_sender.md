@@ -1,4 +1,4 @@
-*Salesforce Create*
+*Email sender*
 
 **Platform:**
 * Support for elastic scaling in Kubernetes

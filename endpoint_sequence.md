@@ -1,4 +1,4 @@
-*Salesforce Create*
+*Sequence Generator*
 
 **Platform:**
 * Support for elastic scaling in Kubernetes

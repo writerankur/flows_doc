@@ -1,4 +1,4 @@
-*Salesforce Create*
+*Salesforce Reader*
 
 **Platform:**
 * Support for elastic scaling in Kubernetes

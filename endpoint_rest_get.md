@@ -1,4 +1,4 @@
-*Salesforce Create*
+*REST Get*
 
 **Platform:**
 * Support for elastic scaling in Kubernetes

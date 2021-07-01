@@ -1,4 +1,4 @@
-*Salesforce Create*
+*Slack*
 
 **Platform:**
 * Support for elastic scaling in Kubernetes
