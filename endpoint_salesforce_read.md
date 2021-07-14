@@ -1,7 +1,7 @@
 # Salesforce Reader
 
 **Platform:**
-* Support for elastic scaling in Kubernetes
+* Support for elastic scaling
 * Enhanced memory and resource management
 * Anomaly detection and active Pipeline analysis
 * Additional notifications via Slack
