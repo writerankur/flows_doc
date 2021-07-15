@@ -1,4 +1,4 @@
-Using Flows, connect your Salesforce account to:
+Connect your Salesforce account to:
 * Create, update, upsert, or delete objects in Salesforce.
 * Download an attachment from a record.
 * Read, look up, or query records.
