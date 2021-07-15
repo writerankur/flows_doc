@@ -1,24 +1,8 @@
-# Salesforce Reader
+Using Flows, connect your Salesforce account to:
+* Create, update, upsert, or delete objects in Salesforce.
+* Download an attachment from a record.
+* Read, look up, or query records.
+* Poll the status of a batch job.
+* Subscribe/Publish Salesforce platform event records.
 
-**Platform:**
-* Support for elastic scaling
-* Enhanced memory and resource management
-* Anomaly detection and active Pipeline analysis
-* Additional notifications via Slack
-
-**API Management:**
-* Support for creating APIs from Swagger 2.0 specifications
-* Support for API versioning 
-
-**ELT for Cloud Data Platforms:**
-* _New!_ Launching Fast Data Loader
-* Introducing two new Snaps -- ELT Execute and ELT SCD2
-* Support for Snowflake that is hosted on Azure or Google Cloud Platform (GCP)
-* Support for ELT operations on data from Google Cloud Storage into Snowflake
-* Automatic download of JDBC Drivers for Snowflake, Redshift, and Azure Synapse 
-* Support for additional Window functions: Covariance, Correlation, and Linear Regression Functions
-
-**New Snaps:**
-* Twilio Snap Pack
-* NetSuite Call RESTlet Snap
-* SAP RFC Listener Snap
+To begin your Salesforce Flows, first, configure/select your Salesforce account and select an object type.
