@@ -6,7 +6,7 @@
 
 To facilitate seamless and reliable inbound/outbound communication between your applications/systems and the SnapLogic Platform comprising Cloudplex, Groundplex, Control Plane, FeedMaster, SnapLogic UI/API, and Ultra Tasks, we need you to add the said IP addresses in your network.
 
-SnapLogic Platform uses a High Availability \(HA\) configuration with support for Disaster Recovery \(DR\) failover. This requires you to add multiple IP addresses to your allowlist.
+SnapLogic Platform uses a High Availability \(HA\) configuration with support for Disaster Recovery \(DR\) failover in case that's ever needed. This requires you to add multiple IP addresses to your allowlist.
 
 Additionally, consider the following guidelines:
 
