@@ -1,4 +1,4 @@
-# Box Readxxxx
+# Box Readxxxxxx
 
 **Platform:**
 * Support for elastic scaling in Kubernetes
