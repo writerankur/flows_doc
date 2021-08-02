@@ -19,6 +19,6 @@
 * Support for additional Window functions: Covariance, Correlation, and Linear Regression Functions
 
 **New Snaps:**
-* Twilio Snap Pack
+* Twilio Snap Pack edited for Greg
 * NetSuite Call RESTlet Snap
 * SAP RFC Listener Snap
