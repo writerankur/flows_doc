@@ -1,10 +1,10 @@
-# Adding the SnapLogic Platform to your Allowlist - SnapLogic Documentation
+# Adding the SnapLogic Platform to your Allowlist
 
 **In this article**
 
 ## About Your Allowlist on SnapLogic <a id="About-Your-Allowlist-on-SnapLogic"></a>
 
-To facilitate (test) seamless and reliable inbound/outbound communication between your applications/systems and the SnapLogic Platform comprising Cloudplex, Groundplex, Control Plane, FeedMaster, SnapLogic UI/API, and Ultra Tasks, we need you to add the said IP addresses in your network.
+To facilitate \(test\) seamless and reliable inbound/outbound communication between your applications/systems and the SnapLogic Platform comprising Cloudplex, Groundplex, Control Plane, FeedMaster, SnapLogic UI/API, and Ultra Tasks, we need you to add the said IP addresses in your network.
 
 SnapLogic Platform uses a High Availability \(HA\) configuration with support for Disaster Recovery \(DR\) failover in case that's ever needed. This requires you to add multiple IP addresses to your allowlist.
 
@@ -107,7 +107,7 @@ Add the following IP addresses to your allowlist on the required endpoints to en
 
 | **SnapLogic Environment** | **Domain** |  |
 | :--- | :--- | :--- |
-| Production Platform | [elastic.snaplogic.com](http://uat.elastic.snaplogic.com/) | 34.209.24.34/32 34.208.230.181/32 3.218.75.185/32 3.218.106.208/32  |
+| Production Platform | [elastic.snaplogic.com](http://uat.elastic.snaplogic.com/) | 34.209.24.34/32 34.208.230.181/32 3.218.75.185/32 3.218.106.208/32 |
 | UAT Platform | [uat.elastic.snaplogic.com](http://uat.elastic.snaplogic.com/) | 35.161.252.12/32 34.212.109.28/32 |
 
 #### See Also <a id="See-Also"></a>
