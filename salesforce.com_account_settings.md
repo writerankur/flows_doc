@@ -23,6 +23,12 @@ Click **Save & Validate** to verify if your account information is valid by conn
 OR  
 Click **Cancel** to return to the previous screen.
 
+{% hint style="info" %}
+If your Salesforce account successfully validates, it is added to the account dropdown list in the previous screen.
+{% endhint %}
+
+
+
 
 
 

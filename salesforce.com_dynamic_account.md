@@ -4,7 +4,7 @@ description: >-
   account selected.
 ---
 
-# salesforce.com\_dynamic\_account
+# salesforce.com\_dynamic\_account\_settings
 
 ## Enter your Salesforce.com dynamic account information
 
@@ -17,8 +17,6 @@ You can get the account information from your IT admin or by logging into your S
 * **Instance URL.** Enter the URL that you use to log in to Salesforce_._ For example, [https://login.salesforce.com/](https://login.salesforce.com/)
 
 Click **Apply** to save your account information in Flows.  
-OR  
-Click **Save & Validate** to verify if your account information is valid by connecting Flows with your Salesforce.com account.  
 OR  
 Click **Cancel** to return to the previous screen.
 
