@@ -2,7 +2,7 @@
 description: Display the content after the user clicks Add Account
 ---
 
-# salesforce\_select\_account
+# salesforce\_account
 
 ## Configure Your Salesforce Account
 
