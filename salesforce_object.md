@@ -4,14 +4,15 @@ description: Display this article after the user is done selecting a salesforce 
 
 # salesforce\_object
 
-Select the Salesforce object type from where your data will be sourced for this Flows configuration.
+Select the Salesforce object type from where your data will be sourced for this Flows configuration. 
 
-* Find Accounts.
-* Find Contact.
-* Find Lead.
-* Find Opportunity.
-* Find Opportunity Stage. 
-* Find another object.
+You can also choose any of the available object types by clicking **Find another object** and selecting the required one from dropdown list.
+
+{% hint style="info" %}
+You can select only a single object type per integration. 
+{% endhint %}
+
+
 
   
 
