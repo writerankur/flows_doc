@@ -4,7 +4,7 @@ description: Display this article after the user is done selecting a salesforce 
 
 # salesforce\_object
 
-Select the Salesforce object type from where your data will be sourced for this Flows configuration. 
+Select the Salesforce **Object type** from where your data will be sourced for this Flows configuration. 
 
 You can also choose any of the available object types by clicking **Find another object** and selecting the required one from dropdown list.
 
