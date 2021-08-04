@@ -1,6 +1,8 @@
-# Salesforce Overview
+# Salesforce overview
 
-Connect your Salesforce account to:
+Salesforce Service Cloud is a leading CRM application for customer service and support. Service Cloud is an add-on product to Salesforce Sales Cloud. 
+
+Flows enables you to connect your Salesforce account to:
 
 * Create, update, or delete objects in Salesforce.
 * Download an attachment from a record.
