@@ -1,3 +1,9 @@
+---
+description: >-
+  Display this article after the user clicks Continue with salesforce.com
+  dynamic account selected.
+---
+
 # salesforce.com\_dynamic\_account\_settings
 
 ## Enter your Salesforce.com dynamic account information

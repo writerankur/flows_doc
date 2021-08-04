@@ -1,3 +1,9 @@
+---
+description: >-
+  Display this article after the user clicks Continue with salesforce.com
+  selected.
+---
+
 # salesforce.com\_account\_settings
 
 ## Enter your Salesforce.com account information

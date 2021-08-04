@@ -1,4 +1,4 @@
-# salesforce\_select\_account
+# Configure Your Salesforce Account
 
 ## Configure Your Salesforce Account
 
