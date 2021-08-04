@@ -1,6 +1,4 @@
-# salesforce.com\_account\_settings
-
-## Enter your Salesforce.com account information
+# Enter your Salesforce.com account information
 
 {% hint style="info" %}
 You can get the account information from your IT admin or by logging into your Salesforce account.

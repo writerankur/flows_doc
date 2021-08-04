@@ -4,9 +4,9 @@ description: >-
   dynamic account selected.
 ---
 
-# salesforce.com\_dynamic\_account\_settings
+# Enter your Salesforce.com dynamic account information
 
-## Enter your Salesforce.com dynamic account information
+
 
 {% hint style="info" %}
 You can get the account information from your IT admin or by logging into your Salesforce account.
