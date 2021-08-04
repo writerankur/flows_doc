@@ -1,9 +1,3 @@
----
-description: Display the content after the user clicks Add Account
----
-
-# salesforce\_select\_account
-
 ## Configure Your Salesforce Account
 
 1. Select the project **Location** to save your account information. The default shared option will share the account with all your Flows' users. 
