@@ -1,3 +1,3 @@
 # Welcome to SnapLogic Flows 
 
-Start building your data flow by integrating the source and target endpoints. Copy, move, update, delete, filter, and transform data based on your requirements. 
+Flows is built for business users to easily automate business processes. Flows greatly simplifies integration for business users, while allowing IT to maintain control of security and governance.
