@@ -1,8 +1,10 @@
-# Enter your Salesforce.com account information
+# Enter your Salesforce account information
 
 {% hint style="info" %}
 You can get the account information from your IT admin or by logging into your Salesforce account.
 {% endhint %}
+
+### Salesforce.com account
 
 * **Label.** Enter a unique name to help identify your Salesforce.com account in Flows. For example, _Salesforce\_sales\_account_, if you are part of the sales team.
 * **Username.** Enter a valid username as given in your Salesforce.com account.
@@ -14,6 +16,16 @@ You can get the account information from your IT admin or by logging into your S
 Click **Apply** to save your account information in Flows.  
 OR  
 Click **Save & Validate** to verify if your account information is valid by connecting Flows with your Salesforce.com account.  
+OR  
+Click **Cancel** to return to the previous screen.
+
+### Salesforce.com dynamic account
+
+* **Label.** Enter a unique name to help identify your Salesforce.com dynamic account in Flows. For example, _Salesforce\_sales\_account_, if you are part of the sales team.
+* **Access token.** Enter the access token of the Salesforce application, which you can retrieve when setting up the account.
+* **Instance URL.** Enter the URL to access Salesforce.com. This is different from your Salesforce login URL. For example, https://ap15.salesforce.com.
+
+Click **Apply** to save your account information in Flows.  
 OR  
 Click **Cancel** to return to the previous screen.
 
