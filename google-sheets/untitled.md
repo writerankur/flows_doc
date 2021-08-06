@@ -8,8 +8,10 @@
 4. Click **Authorize.** You will be directed to the login page of your Google Sheets account.
 5. Log in with user credentials and grant permissions. You must grant permission to connect your Google Sheets account with Flows. 
 6. Select the **Auto-refresh token** if you want to refresh the token automatically using the refresh token of your Box account. 
-7. Click **Validate** to validate the account details. 
-8. Click **Apply**.
+7. Click any one of the following:
+   * **Apply** to save your account information in Flows.
+   * **Validate** to validate the account details. 
+   * **Cancel** to return to the previous screen.
 
 
 

@@ -10,14 +10,18 @@ Enter the following details according to the account selected:
 
 * **Username:** Enter a valid username as given in your REST basic auth account.
 * **Password:** Enter the password for the above account as used in your REST basic auth account.
-* Click **Apply** to save your account information in Flows. OR Click **Cancel** to return to the previous screen.
+* Click any one of the following:
+  * **Apply** to save your account information in Flows.
+  * **Cancel** to return to the previous screen.
 
 **REST Dynamic OAuth2 Account**
 
 * **Label:** Enter a unique name to help identify your Salesforce.com account in Flows. For example, _Salesforce\_sales\_account_, if you are part of the sales team.
 * **Access Token**: The access token for the application. The retrieval of the access token is done when setting up the account for the endpoint.
 * **Header authenticated**: Select to indicate that the endpoint uses bearer header authentication.
-* Click **Apply** to save your account information in Flows. OR Click **Cancel** to return to the previous screen.
+* Click any one of the following:
+  * **Apply** to save your account information in Flows.
+  * **Cancel** to return to the previous screen.
 
 **REST NTLM Account**
 
@@ -28,7 +32,9 @@ Enter the following details according to the account selected:
 * **Username:** Enter a valid username as given in your REST basic auth account.
 * **Password:** Enter the password for the above account as used in your REST basic auth account.
 * **Domain**: The name of the NETBIOS domain in which the account is configured.
-* Click **Apply** to save your account information in Flows. OR Click **Cancel** to return to the previous screen.
+* Click any one of the following:
+  * **Apply** to save your account information in Flows.
+  * **Cancel** to return to the previous screen.
 
 **REST OAuth1 Account**
 
@@ -47,7 +53,9 @@ Enter the following details according to the account selected:
 * **Access Token Endpoint**: The URL of the endpoint from where the application can retrieve the access tokens required for the account. For example, [https://api.xero.com/oauth/AccessToken](https://api.xero.com/oauth/AccessToken) 
 * **Authorize Endpoint**: The endpoint that authorizes the application to access the target database.
 * Click **Authorize** to authorize the REST OAuth1 account using the credentials provided.
-* Click **Apply** to save your account information in Flows. OR Click **Cancel** to return to the previous screen.
+* Click any one of the following:
+  * **Apply** to save your account information in Flows.
+  * **Cancel** to return to the previous screen.
 
 **REST OAuth2 Account**
 
@@ -74,7 +82,9 @@ Enter the following details according to the account selected:
   * **Auth endpoint value**: The value associated with the optional authorization endpoint parameter defined above.
 * **Auto-refresh token**: Select this check box to refresh the token automatically using the refresh token, if the property is enabled. If this property is deselected, the token expires and is not refreshed automatically.
 * Click **Authorize** to authorize the REST OAuth1 account using the credentials provided.
-* Click **Apply** to save your account information in Flows. OR Click **Cancel** to return to the previous screen.
+* Click any one of the following:
+  * **Apply** to save your account information in Flows.
+  * **Cancel** to return to the previous screen.
 
 **REST OAuth2 SSL Account**
 
@@ -105,7 +115,9 @@ Enter the following details according to the account selected:
   * **Auth endpoint value**: The value associated with the optional authorization endpoint parameter defined above.
 * **Auto-refresh token**: Select this check box to refresh the token automatically using the refresh token, if the property is enabled. If this property is deselected, the token expires and is not refreshed automatically.
 * Click **Authorize** to authorize the REST OAuth1 account using the credentials provided.
-* Click **Apply** to save your account information in Flows. OR Click **Cancel** to return to the previous screen.
+* Click any one of the following:
+  * **Apply** to save your account information in Flows.
+  * **Cancel** to return to the previous screen.
 
 **REST SSL Account**
 
@@ -119,7 +131,9 @@ Enter the following details according to the account selected:
 * **TrustStore**: The location of the trust store file. It can be in SLDB or at any other unauthenticated endpoint.
 * **Key/Trust store password**: Password for the key/trust store. It is used for both if both are defined.
 * **Key alias**: The alias of the key that you want to use with this account.
-* Click **Apply** to save your account information in Flows. OR Click **Cancel** to return to the previous screen.
+* Click any one of the following:
+  * **Apply** to save your account information in Flows.
+  * **Cancel** to return to the previous screen.
 
 
 
