@@ -18,5 +18,5 @@
 ## Google Sheets
 
 * [Google Sheets overview](google-sheets/google-sheets-overview/README.md)
-  * [Untitled](google-sheets/google-sheets-overview/untitled.md)
+  * [Configure your Google Sheets account](google-sheets/google-sheets-overview/untitled.md)
 
