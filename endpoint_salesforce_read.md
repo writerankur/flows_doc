@@ -16,14 +16,7 @@ To begin your Salesforce Flows, either select your Salesforce account from the d
 please check the style including hint
 
 {% hint style="info" %}
-
 You can click **Choose Account Later** to go back to selecting an account from the dropdown list.
-xx
-{% endhint %}
-
-
-{% hint style="info" %}
-GG to go back to selecting an account from the dropdown list.
 {% endhint %}
 
 You can edit something here
