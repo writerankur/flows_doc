@@ -107,6 +107,20 @@ Enter the following details according to the account selected:
 * Click **Authorize** to authorize the REST OAuth1 account using the credentials provided.
 * Click **Apply**.
 
-**REST SSL Account**  
+**REST SSL Account**
+
+* **Label:** Enter a unique name to help identify your REST basic auth account
+
+  in Flows. For example, _rest\_sales\_account_, if you are part of the sales team.
+
+* **Username:** Enter a valid username as given in your REST basic auth account.
+* **Password:** Enter the password for the above account as used in your REST basic auth account.
+* **KeyStore**: The location of the key store file. It can be in SLDB or at any other unauthenticated endpoint.
+* **TrustStore**: The location of the trust store file. It can be in SLDB or at any other unauthenticated endpoint.
+* **Key/Trust store password**: Password for the key/trust store. It is used for both if both are defined.
+* **Key alias**: The alias of the key that you want to use with this account.
+* Click **Apply**.
+
+  
 
 
