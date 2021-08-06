@@ -23,5 +23,7 @@
 
 ## REST
 
-* [Untitled](rest/untitled.md)
+* [REST overview](rest/untitled.md)
+* [Select your REST account type](rest/select-your-rest-account-type.md)
+* [Configure your REST account](rest/configure-your-rest-account.md)
 
