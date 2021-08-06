@@ -13,7 +13,7 @@ To begin your Salesforce Flows, either select your Salesforce account from the d
 2. Select the **Account Type** as configured in your Salesforce instance. 
 3. Click **Continue**.
 
-please check the style
+please check the style including hint
 
 {% hint style="info" %}
 You can click **Choose Account Later** to go back to selecting an account from the dropdown list.
