@@ -123,9 +123,7 @@ Enter the following details according to the account selected:
 
 
 
-{% hint style="info" %}
-If your REST account successfully validates, it is added to the account dropdown list in the previous screen.
-{% endhint %}
+
 
   
 
