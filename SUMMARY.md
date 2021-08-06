@@ -15,3 +15,7 @@
 * [Configure your Box account](box/configure-your-box-account.md)
 * [Select your Box data source](box/select-your-box-data-source.md)
 
+## Google Sheets
+
+* [Google Sheets overview](google-sheets/google-sheets-overview.md)
+
