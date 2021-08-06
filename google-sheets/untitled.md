@@ -13,3 +13,9 @@
 
 
 
+{% hint style="info" %}
+If your Google Sheets account successfully validates, it is added to the account dropdown list in the previous screen.
+{% endhint %}
+
+
+
