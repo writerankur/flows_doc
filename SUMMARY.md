@@ -17,6 +17,6 @@
 
 ## Google Sheets
 
-* [Untitled](google-sheets/untitled.md)
-* [Google Sheets overview](google-sheets/google-sheets-overview.md)
+* [Google Sheets overview](google-sheets/google-sheets-overview/README.md)
+  * [Untitled](google-sheets/google-sheets-overview/untitled.md)
 
