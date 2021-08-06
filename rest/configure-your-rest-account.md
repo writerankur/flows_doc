@@ -121,6 +121,12 @@ Enter the following details according to the account selected:
 * **Key alias**: The alias of the key that you want to use with this account.
 * Click **Apply**.
 
+
+
+{% hint style="info" %}
+If your REST account successfully validates, it is added to the account dropdown list in the previous screen.
+{% endhint %}
+
   
 
 
