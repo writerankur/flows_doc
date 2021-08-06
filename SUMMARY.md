@@ -12,4 +12,5 @@
 ## Box
 
 * [Box overview](box/box-overview.md)
+* [Configure your Box account](box/configure-your-box-account.md)
 
