@@ -63,7 +63,18 @@ Enter the following details according to the account selected:
 * **Header authenticated**: Select this check box to indicate that the endpoint uses bearer header authentication.
 * **OAuth2 Endpoint**: Enter the URL of the endpoint that authorizes the application. 
 * **OAuth2 Token**: Enter the URL of the endpoint that retrieves the token for an authenticated account.
-* **Grant Type**:
+* **Grant Type**: Select the method of authorization.
+  * **Authorization\_code**: The user is authenticated using credentials \(username and password\), which return to the client through a redirect URL. The application then receives the authorization code from the URL and uses it to request an access token.
+  * **Client\_credentials**: Obtains an access token to the client ID and client secret through the token endpoint URL.
+* **Token endpoint config**: Use this fieldset to provide custom properties for the OAuth2 token endpoint. Click the + or - icons to respectively add or remove configuration rows. This fieldset comprises the following fields:
+  * **Token endpoint parameter**: ****Defines an optional token endpoint parameter.
+  * **Token endpoint parameter value**: The value associated with the optional endpoint parameter defined above.
+* **Auth endpoint config**: Use this fieldset to provide custom properties for the OAuth2 auth endpoint. Click the + or - icons to respectively add or remove configuration rows. This fieldset comprises the following fields:
+  * **Auth endpoint parameter**: Defines an optional authorization endpoint parameter.
+  * **Auth endpoint value**: The value associated with the optional authorization endpoint parameter defined above.
+* **Auto-refresh token**: Select this check box to refresh the token automatically using the refresh token, if the property is enabled. If this property is deselected, the token expires and is not refreshed automatically.
+* Click **Authorize** to authorize the REST OAuth1 account using the credentials provided.
+* Click **Apply**.
 
 **REST OAuth2 SSL Account**
 
