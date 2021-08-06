@@ -1,2 +1,2 @@
-# Select your REST account type
+# Select your REST account
 
