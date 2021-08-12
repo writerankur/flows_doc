@@ -11,7 +11,7 @@
 
 ## Box
 
-* [Box overview](box/box-overview.md)
+* [Box overview](box/box_overview.md)
 * [Configure your Box account](box/configure-your-box-account.md)
 * [Select your Box data source](box/select-your-box-data-source.md)
 
@@ -23,7 +23,7 @@
 
 ## REST
 
-* [REST overview](rest/untitled.md)
+* [REST overview](rest/rest-overview.md)
 * [Select your REST account type](rest/select-your-rest-account-type.md)
 * [Enter your REST account information](rest/configure-your-rest-account.md)
 * [Enter the REST Service URL](rest/enter-the-rest-service-url.md)
