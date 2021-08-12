@@ -23,7 +23,7 @@
 
 ## REST
 
-* [REST overview](rest/rest-overview.md)
+* [REST overview](rest/rest_overview.md)
 * [Select your REST account type](rest/select-your-rest-account-type.md)
 * [Enter your REST account information](rest/configure-your-rest-account.md)
 * [Enter the REST Service URL](rest/enter-the-rest-service-url.md)
