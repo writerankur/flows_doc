@@ -1,4 +1,4 @@
-# Box overview
+# Box Read overview
 
 Box is a secured platform built for the entire content lifecycle, from file creation and sharing, to co-editing, signature, classification, and retention.
 
