@@ -4,27 +4,27 @@
 
 ## salesforce
 
-* [Salesforce overview](salesforce/salesforce_overview.md)
-* [Select your Salesforce account type](salesforce/salesforce_select_account.md)
-* [Enter your Salesforce account information](salesforce/salesforce_account_settings.md)
-* [Select your object type](salesforce/salesforce_object.md)
+* [Salesforce overview]
+* [Select your Salesforce account type]
+* [Enter your Salesforce account information]
+* [Select your object type]
 
 ## Box
 
-* [Box overview](box/box-overview.md)
-* [Configure your Box account](box/configure-your-box-account.md)
-* [Select your Box data source](box/select-your-box-data-source.md)
+* [Box overview]
+* [Configure your Box account]
+* [Select your Box data source]
 
 ## Google Sheets
 
-* [Google Sheets overview](google-sheets/google-sheets-overview.md)
-* [Configure your Google Sheets account](google-sheets/untitled.md)
-* [Enter your Google Spreadsheet information](google-sheets/enter-your-google-spreadsheet-information.md)
+* [Google Sheets overview]
+* [Configure your Google Sheets account]
+* [Enter your Google Spreadsheet information]
 
 ## REST
 
-* [REST overview](rest/untitled.md)
-* [Select your REST account type](rest/select-your-rest-account-type.md)
-* [Enter your REST account information](rest/configure-your-rest-account.md)
-* [Enter the REST Service URL](rest/enter-the-rest-service-url.md)
+* [REST overview]
+* [Select your REST account type]
+* [Enter your REST account information]
+* [Enter the REST Service URL]
 
