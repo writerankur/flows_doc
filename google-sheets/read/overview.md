@@ -1,4 +1,4 @@
-# Google Sheets overview
+# Google Sheets Reader overview
 
 The Google Sheets API provides you the ability to read and modify data in Google Sheets.
 
