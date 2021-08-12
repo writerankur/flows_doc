@@ -19,7 +19,7 @@
 
 * [Google Sheets overview](google-sheets/google_sheets_overview.md)
 * [Configure your Google Sheets account](google-sheets/google_sheets_account_settings.md)
-* [Enter your Google Spreadsheet information](google-sheets/enter-your-google-spreadsheet-information.md)
+* [Enter your Google Spreadsheet information](google-sheets/google_sheets_spreadsheet_info.md)
 
 ## REST
 
