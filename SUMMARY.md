@@ -26,5 +26,5 @@
 * [REST overview](rest/rest_overview.md)
 * [Select your REST account type](rest/rest_select_account.md)
 * [Enter your REST account information](rest/rest_account_settings.md)
-* [Enter the REST Service URL](rest/enter-the-rest-service-url.md)
+* [Enter the REST Service URL](rest/rest_service_url.md)
 
