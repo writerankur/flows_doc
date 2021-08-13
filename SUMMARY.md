@@ -33,9 +33,9 @@
 * [Configure your Marketo OAuth2 account](marketo/marketo_account_settings.md)
 * [Select your Marketo data source](marketo/marketo_file_type.md)
 
-## Salesforce Event Listener
+## Salesforce Event Listener <a id="salesforce_event_listener"></a>
 
-* [Salesforce Event Listener overview](salesforce-event-listener/salesforce_event_listener_overview.md)
+* [Salesforce Event Listener overview](salesforce_event_listener/salesforce_event_listener_overview.md)
 
 ## CSV Generator <a id="csv_generator"></a>
 
