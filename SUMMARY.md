@@ -14,11 +14,11 @@
 * [Configure your Box account](box/box_account.md)
 * [Select your Box data source](box/box_file_type.md)
 
-## Google Sheets 
+## Google Sheets
 
-* [Google Sheets overview](google_sheets/google_sheets_overview.md)
-* [Configure your Google Sheets account](google_sheets/google_sheets_account_settings.md)
-* [Enter your Google Spreadsheet information](google_sheets/google_sheets_spreadsheet_info.md)
+* [Google Sheets overview](google-sheets/google_sheets_overview.md)
+* [Configure your Google Sheets account](google-sheets/google_sheets_account_settings.md)
+* [Enter your Google Spreadsheet information](google-sheets/google_sheets_spreadsheet_info.md)
 
 ## REST
 
@@ -26,4 +26,10 @@
 * [Select your REST account type](rest/rest_select_account.md)
 * [Enter your REST account information](rest/rest_account_settings.md)
 * [Enter the REST Service URL](rest/rest_service_url.md)
+
+## Marketo
+
+* [Marketo overview](marketo/marketo-overview.md)
+* [Configure your Marketo account](marketo/configure-your-marketo-account.md)
+* [Select your Marketo data source](marketo/select-your-marketo-data-source.md)
 
