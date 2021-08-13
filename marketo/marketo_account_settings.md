@@ -1,4 +1,4 @@
-# Configure your Marketo account
+# Configure your Marketo OAuth2 account
 
 1. In **Label,** enter the name of your account. Make sure to use a unique account name.  
 2. Enter your **Munchkin ID** and your **Client ID**.

@@ -29,9 +29,9 @@
 
 ## Marketo
 
-* [Marketo overview](marketo/marketo-overview.md)
-* [Configure your Marketo account](marketo/configure-your-marketo-account.md)
-* [Select your Marketo data source](marketo/select-your-marketo-data-source.md)
+* [Marketo overview](marketo/marketo_overview.md)
+* [Configure your Marketo OAuth2 account](marketo/marketo_account_settings.md)
+* [Select your Marketo data source](marketo/marketo_file_type.md)
 
 ## Salesforce Event Listener
 
