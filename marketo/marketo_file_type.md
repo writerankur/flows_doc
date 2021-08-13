@@ -6,7 +6,7 @@ You can choose any one of the available **Data Collection Types** to start your 
 
 **Read Asset**
 
-* Enter a command
+* Enter a command to query the Asset database to retrieve the desired records.
 
 **Read Lead**
 
