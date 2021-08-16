@@ -8,3 +8,5 @@ Flows enables you to connect your Google Sheets account to:
 * Read a worksheet within a Google spreadsheet
 * Write to a worksheet within a Google spreadsheet
 
+To begin your Google Sheets Flows, either select a pre-configured Google Sheets account from the dropdown or click **Add Account** to configure your existing Salesforce account.
+
