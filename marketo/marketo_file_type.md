@@ -6,13 +6,13 @@ Select the Marketo **Data Collection Type** from where your data will be sourced
 
 Use this data source to query the Asset database.
 
-* In **Command**, enter or select a command from the dropdown. Different commands allow you to read different assets.
+* In **Command**, enter or select a command from the dropdown. Different commands allow you to read different assets from the Asset database.
 
 **Read Lead**
 
 Use this data source to query the Lead database.
 
-* In **Command**, enter or select a command from the dropdown. Different commands allow you to read different leads.
+* In **Command**, enter or select a command from the dropdown. Different commands allow you to read different leads from the Lead database.
 
 **Extract Lead in Bulk**
 
