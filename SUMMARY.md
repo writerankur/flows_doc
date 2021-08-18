@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Welcome to SnapLogic Flows!](welcome-to-snaplogic-flows.md)
+* [Welcome to SnapLogic Flows!](welcome_to_snaplogic_flows.md)
 
 ## salesforce
 
