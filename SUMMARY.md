@@ -51,7 +51,8 @@
 * [Configure AWS S3 Account type](snaplogic-file-system-reader-1/configure_aws_s3_account_type.md)
 * [Configure Azure Data Lake Account](snaplogic-file-system-reader-1/configure_azure_data_lake_account.md)
 * [Azure Storage](snaplogic-file-system-reader-1/azure_storage.md)
-* [Untitled](snaplogic-file-system-reader-1/untitled-2.md)
-* [Untitled](snaplogic-file-system-reader-1/untitled-1.md)
-* [Untitled](snaplogic-file-system-reader-1/untitled.md)
+* [Basic Auth](snaplogic-file-system-reader-1/untitled-2.md)
+* [Google Service](snaplogic-file-system-reader-1/untitled-1.md)
+* [Google Storage](snaplogic-file-system-reader-1/untitled.md)
+* [S3 Dynamic](snaplogic-file-system-reader-1/s3-dynamic.md)
 
