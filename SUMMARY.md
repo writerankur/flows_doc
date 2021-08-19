@@ -44,6 +44,6 @@
 
 ## SnapLogic File System Reader
 
-* [Untitled](snaplogic-file-system-reader/untitled-1.md)
+* [SnapLogic File System Reader overview](snaplogic-file-system-reader/snaplogic_file_system_reader_overview.md)
 * [Untitled](snaplogic-file-system-reader/untitled.md)
 
