@@ -45,5 +45,6 @@
 ## SnapLogic File System Reader
 
 * [SnapLogic File System Reader overview](snaplogic-file-system-reader/snaplogic_file_system_reader_overview.md)
+* [Select your SnapLogic File System Reader account](snaplogic-file-system-reader/select-your-snaplogic_file_system_reader_account_type.md)
 * [Untitled](snaplogic-file-system-reader/untitled.md)
 
