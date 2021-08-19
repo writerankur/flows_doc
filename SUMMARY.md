@@ -48,7 +48,6 @@
 
 * [SnapLogic File System Reader overview](snaplogic-file-system-reader-1/snaplogic_file_system_reader_overview.md)
 * [Select your SnapLogic File System Reader account](snaplogic-file-system-reader-1/select-your-snaplogic_file_system_reader_account_type.md)
-* [Untitled](snaplogic-file-system-reader-1/untitled-1.md)
 * [Configure AWS S3 Account](snaplogic-file-system-reader-1/configure_aws_s3_account.md)
 * [Configure Azure Data Lake Account](snaplogic-file-system-reader-1/configure_azure_data_lake_account.md)
 * [Azure Storage](snaplogic-file-system-reader-1/azure_storage.md)
