@@ -42,18 +42,18 @@
 
 * [CSV Generator overview](csv_generator/csv_generator_overview.md)
 
-## SnapLogic File System Reader <a id="snaplogic-file-system-reader-1"></a>
+## SnapLogic File System Reader <a id="snaplogic_file_system_reader"></a>
 
-* [SnapLogic File System Reader overview](snaplogic-file-system-reader-1/snaplogic_file_system_reader_overview.md)
-* [Select your SnapLogic File System Reader account](snaplogic-file-system-reader-1/select-your-snaplogic_file_system_reader_account_type.md)
-* [Configure AWS S3 Account](snaplogic-file-system-reader-1/configure_aws_s3_account.md)
-* [Configure Azure Data Lake Account](snaplogic-file-system-reader-1/configure_azure_data_lake_account.md)
-* [Azure Storage](snaplogic-file-system-reader-1/azure_storage.md)
-* [Configure Basic Auth account](snaplogic-file-system-reader-1/configure_basic_auth_account.md)
-* [Configure Google Service account](snaplogic-file-system-reader-1/configure_google_service_account.md)
-* [Configure Google Storage account](snaplogic-file-system-reader-1/configure_google_storage_account.md)
-* [Configure S3 Dynamic account](snaplogic-file-system-reader-1/configure_s3_dynamic_account.md)
-* [Configure SMB Account](snaplogic-file-system-reader-1/configure_smb_account.md)
-* [Configure SSH Auth account](snaplogic-file-system-reader-1/configure_ssh_auth_account.md)
-* [Configure Two-Factor Auth account](snaplogic-file-system-reader-1/configure_two_factor_auth_account.md)
+* [SnapLogic File System Reader overview](snaplogic_file_system_reader/snaplogic_file_system_reader_overview.md)
+* [Select your SnapLogic File System Reader account](snaplogic_file_system_reader/select-your-snaplogic_file_system_reader_account_type.md)
+* [Configure AWS S3 Account](snaplogic_file_system_reader/configure_aws_s3_account.md)
+* [Configure Azure Data Lake Account](snaplogic_file_system_reader/configure_azure_data_lake_account.md)
+* [Azure Storage](snaplogic_file_system_reader/azure_storage.md)
+* [Configure Basic Auth account](snaplogic_file_system_reader/configure_basic_auth_account.md)
+* [Configure Google Service account](snaplogic_file_system_reader/configure_google_service_account.md)
+* [Configure Google Storage account](snaplogic_file_system_reader/configure_google_storage_account.md)
+* [Configure S3 Dynamic account](snaplogic_file_system_reader/configure_s3_dynamic_account.md)
+* [Configure SMB Account](snaplogic_file_system_reader/configure_smb_account.md)
+* [Configure SSH Auth account](snaplogic_file_system_reader/configure_ssh_auth_account.md)
+* [Configure Two-Factor Auth account](snaplogic_file_system_reader/configure_two_factor_auth_account.md)
 
