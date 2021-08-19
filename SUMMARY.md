@@ -42,8 +42,6 @@
 
 * [CSV Generator overview](csv_generator/csv_generator_overview.md)
 
-## Snaplogic File System Reader
-
 ## SnapLogic File System Reader <a id="snaplogic-file-system-reader-1"></a>
 
 * [SnapLogic File System Reader overview](snaplogic-file-system-reader-1/snaplogic_file_system_reader_overview.md)
