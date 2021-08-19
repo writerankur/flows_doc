@@ -55,4 +55,5 @@
 * [Google Service](snaplogic-file-system-reader-1/untitled-1.md)
 * [Google Storage](snaplogic-file-system-reader-1/untitled.md)
 * [S3 Dynamic](snaplogic-file-system-reader-1/s3-dynamic.md)
+* [SMB](snaplogic-file-system-reader-1/smb.md)
 
