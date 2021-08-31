@@ -17,9 +17,9 @@
 
 ## Google Sheets
 
-* [Google Sheets overview](google_sheets/google_sheets_overview.md)
-* [Configure your Google Sheets account](google_sheets/google_sheets_account_settings.md)
-* [Enter your Google Spreadsheet information](google_sheets/google_sheets_spreadsheet_info.md)
+* [Google Sheets overview](google-sheets/google_sheets_overview.md)
+* [Configure your Google Sheets account](google-sheets/google_sheets_account_settings.md)
+* [Enter your Google Spreadsheet information](google-sheets/google_sheets_spreadsheet_info.md)
 
 ## REST
 
@@ -34,15 +34,15 @@
 * [Configure your Marketo OAuth2 account](marketo/marketo_account_settings.md)
 * [Select your Marketo data source](marketo/marketo_file_type.md)
 
-## Salesforce Event Listener
+## Salesforce Event Listener <a id="salesforce_event_listener"></a>
 
 * [Salesforce Event Listener overview](salesforce_event_listener/salesforce_event_listener_overview.md)
 
-## CSV Generator
+## CSV Generator <a id="csv_generator"></a>
 
 * [CSV Generator overview](csv_generator/csv_generator_overview.md)
 
-## SnapLogic File System Reader
+## SnapLogic File System Reader <a id="snaplogic_file_system_reader"></a>
 
 * [SnapLogic File System Reader overview](snaplogic_file_system_reader/snaplogic_file_system_reader_overview.md)
 * [Select your SnapLogic File System Reader account](snaplogic_file_system_reader/select-your-snaplogic_file_system_reader_account_type.md)
