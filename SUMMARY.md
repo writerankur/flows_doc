@@ -45,7 +45,7 @@
 ## SnapLogic File System Reader <a id="snaplogic_file_system_reader"></a>
 
 * [SnapLogic File System Reader overview](snaplogic_file_system_reader/snaplogic_file_system_reader_overview.md)
-* [Select your SnapLogic File System Reader account](snaplogic_file_system_reader/select-your-snaplogic_file_system_reader_account_type.md)
+* [Select your SnapLogic File System Reader account](snaplogic_file_system_reader/select_file_system_reader_account_type.md)
 * [Configure AWS S3 Account](snaplogic_file_system_reader/configure_aws_s3_account.md)
 * [Configure Azure Data Lake Account](snaplogic_file_system_reader/configure_azure_data_lake_account.md)
 * [Azure Storage](snaplogic_file_system_reader/azure_storage.md)
