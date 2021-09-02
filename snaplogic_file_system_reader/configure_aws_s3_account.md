@@ -1,6 +1,6 @@
 # Configure AWS S3 Account
 
-
+Enter the following details according to the account selected: 
 
 * **Label:** Enter a unique name to help identify your REST basic auth account
 
