@@ -57,3 +57,9 @@
 * [Configure SSH Auth account](snaplogic_file_system_reader/configure_ssh_auth_account.md)
 * [Configure Two-Factor Auth account](snaplogic_file_system_reader/configure_two_factor_auth_account.md)
 
+## Sharepoint Online <a id="sharepoint_online"></a>
+
+* [Sharepoint overview](sharepoint_online/sharepoint_overview.md)
+* [Enter your SharePoint account information](sharepoint_online/sharepoint_account_settings.md)
+* [Select your SharePoint data source type](sharepoint_online/sharepoint_file_type.md)
+
