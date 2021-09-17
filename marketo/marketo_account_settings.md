@@ -7,5 +7,5 @@
 5. Enter the URL of the **OAuth2 Endpoint** and the **OAuth2 Token**.
 6. Click **Authorize.** You will be directed to the login page of your Marketo Account.
 7. Select the **Auto-refresh token** checkbox to refresh the token automatically using your Marketo account's refresh token. 
-8. Click **Apply**.
+8. Click **Apply** to save your account information in Flows. OR Click **Cancel** to return to the previous screen.
 
