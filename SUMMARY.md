@@ -31,6 +31,7 @@
 ## Marketo
 
 * [Marketo overview](marketo/marketo_overview.md)
+* [Select your Marketo account type](marketo/select_your_marketo_account_type.md)
 * [Configure your Marketo OAuth2 account](marketo/marketo_account_settings.md)
 * [Select your Marketo data source](marketo/marketo_file_type.md)
 
