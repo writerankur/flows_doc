@@ -1,6 +1,6 @@
 # Marketo overview
 
-Marketo is a marketing-automation software that identifies, engages, and accelerates the customer experience. 
+Marketo is a marketing automation software that identifies, engages, and accelerates the customer experience. 
 
 Flows enables you to connect your Marketo account to:
 
