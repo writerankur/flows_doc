@@ -2,6 +2,10 @@
 
 Enter the following details according to the account selected: 
 
+{% hint style="info" %}
+Field names marked with an asterisk \( **\*** \) in the application are mandatory.
+{% endhint %}
+
 **REST Basic Auth Account**
 
 * **Label:** Enter a unique name to help identify your REST basic auth account
