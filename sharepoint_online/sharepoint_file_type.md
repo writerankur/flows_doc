@@ -2,34 +2,39 @@
 
 Select the SharePoint **Data Source Type** from where your data will be sourced to configure this Flow. 
 
+Most data source types require a **Site Name** and/or a **Document library**:
+
+* **Site Name**: The name of a site that contains the list of document libraries to be used in the subsequent Snap settings.
+* **Document library**: Select a drive representing the top-level container for a file system, such as OneDrive or SharePoint document libraries. 
+
 You can also choose any one of the available **Data Source Types** to start your Flow and provide the following information:
 
-**Get Document Library**
+**Get Document Library**: ****Select this data source type to get the metadata of an item from the SharePoint Online document library.
 
-* The name of a site that contains the list of document library to be used in the subsequent Snap settings.
+* Enter the **Site**.
 
-**Get Item**
+**Get Item**: ****Select this data source type to get the metadata of files and folders from the SharePoint Online document library.
 
-* The name of a site that contains the list of document library to be used in the subsequent Snap settings.
-* This property enables you to select a drive representing the top-level container for a file system, such as OneDrive or SharePoint document libraries. This field populates dynamically from different sites via the suggestion drop-down list. You can either choose a document library from suggestion drop-down or enter the entity name manually.
+* Enter the **Site**.
+* Enter the **Document library** or select it from the dropdown list.
 
-**Get Item Children**
+**Get Item Children**: ****Select this data source type to fetch the children of items from the selected SharePoint Online document library. 
 
-* The name of a site that contains the list of document library to be used in the subsequent Snap settings.
-* This property enables you to select a drive representing the top-level container for a file system, such as OneDrive or SharePoint document libraries. This field populates dynamically from different sites via the suggestion drop-down list. You can either choose a document library from suggestion drop-down or enter the entity name manually.
+* Enter the **Site**.
+* Enter the **Document library** or select it from the dropdown list.
 
-**Get Item Permissions**
+**Get Item Permissions**: ****Select this data source type to get the permissions of an item from the SharePoint Online document library.
 
-* The name of a site that contains the list of document library to be used in the subsequent Snap settings.
-* This property enables you to select a drive representing the top-level container for a file system, such as OneDrive or SharePoint document libraries. This field populates dynamically from different sites via the suggestion drop-down list. You can either choose a document library from suggestion drop-down or enter the entity name manually.
-* Provide the item resource path that represents a file, folder, or other item stored in a document library to get the available permissions on the item.
+* Enter the **Site**.
+* Enter the **Document library** or select it from the dropdown list.
+* In **Source item relative path**, enter the item resource path that represents a file, folder, or other item stored in a document library to get the available permissions on the item.
 
-**Read List**
+**Read List**: ****Select this data source type to read the metadata of a list from the SharePoint Online site.
 
-* The name of a site that contains the list of document library to be used in the subsequent settings.
+* Enter the **Site**.
 
-**Search Items**
+**Search Items**: ****Select this data source type to perform a search for the hierarchy of items matching the search query.
 
-* The name of a site that contains the list of document library to be used in the subsequent Snap settings.
-* This property enables you to select a drive representing the top-level container for a file system, such as OneDrive or SharePoint document libraries. This field populates dynamically from different sites via the suggestion drop-down list. You can either choose a document library from suggestion drop-down or enter the entity name manually.
+* Enter the **Site**.
+* Enter the **Document library** or select it from the dropdown list.
 
