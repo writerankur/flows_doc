@@ -64,3 +64,10 @@
 * [Enter your SharePoint account information](sharepoint_online/sharepoint_account_settings.md)
 * [Select your SharePoint data source type](sharepoint_online/sharepoint_file_type.md)
 
+## ServiceNow
+
+* [ServiceNow overview](servicenow/servicenow-overview.md)
+* [Select your ServiceNow account type](servicenow/select-your-servicenow-account-type.md)
+* [Enter your ServiceNow account information](servicenow/enter-your-servicenow-account-information.md)
+* [Select your ServiceNow data source type](servicenow/select-your-servicenow-data-source-type.md)
+
