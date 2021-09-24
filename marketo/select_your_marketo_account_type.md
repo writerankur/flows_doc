@@ -3,7 +3,7 @@
 
 
 1. Select the project **Location** to save your account information. The default shared option will share the account with all the other Flows' users. 
-2. Select **Marketo OAuth2 Account** in the **Account Type** as configured in your REST instance. 
+2. Select **Marketo OAuth2 Account** in the **Account Type** as configured in your Marketo instance. 
 3. Click **Continue**.
 
 
