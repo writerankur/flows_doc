@@ -3,8 +3,8 @@
 1. Configure your account with the following details:
    * **Label:** Enter the name of your account. Make sure to use a unique account name.  
    * **Munchkin ID**: Enter the Munchkin ID associated with your Marketo application.
-   * **Client ID**: ****Enter the client ID associated with your Marketo application.
-   * **Client Secret:** Enter the client secret ****associated with your account.
+   * **Client ID**: Enter the client ID associated with your Marketo application.
+   * **Client Secret:** Enter the client secret associated with your account.
    * Select the **Header Authenticated** checkbox if the endpoint uses bearer header authentication.
    * In **OAuth2 Endpoint,** enter the authorization endpoint to authorize the application.
    * **OAuth2 Token**, enter the token endpoint to get the access token.
