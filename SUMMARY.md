@@ -66,8 +66,8 @@
 
 ## ServiceNow
 
-* [ServiceNow overview](servicenow/servicenow-overview.md)
-* [Select your ServiceNow account type](servicenow/select-your-servicenow-account-type.md)
-* [Enter your ServiceNow account information](servicenow/enter-your-servicenow-account-information.md)
-* [Select your ServiceNow data source type](servicenow/select-your-servicenow-data-source-type.md)
+* [ServiceNow overview](servicenow/servicenow_overview.md)
+* [Select your ServiceNow account type](servicenow/select_your_servicenow_account_type.md)
+* [Enter your ServiceNow account information](servicenow/enter_your_servicenow_account_information.md)
+* [Select your ServiceNow data source type](servicenow/select_your_servicenow_data_source_type.md)
 
