@@ -16,4 +16,8 @@ Enter the following details according to the account selected:
 * **Application Scope:** Enter the scope of the application execution. 
 * **Auto-refresh token**: Select if you want to refresh the refresh token automatically. 
 * Click **Authorize**.
+* Click any one of the following:
+  * **Apply** to save your account information in Flows.
+  * **Validate** to verify if your account information is valid by connecting Flows with your Salesforce.com account.
+  * **Cancel** to return to the previous screen.
 
