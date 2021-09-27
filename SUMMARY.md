@@ -57,6 +57,9 @@
 * [Configure SMB Account](snaplogic_file_system_reader/configure_smb_account.md)
 * [Configure SSH Auth account](snaplogic_file_system_reader/configure_ssh_auth_account.md)
 * [Configure Two-Factor Auth account](snaplogic_file_system_reader/configure_two_factor_auth_account.md)
+* [Select your](snaplogic_file_system_reader/select-your.md)
+* [Untitled](snaplogic_file_system_reader/untitled-1.md)
+* [Read CSV File](snaplogic_file_system_reader/read-csv-file.md)
 
 ## Sharepoint Online <a id="sharepoint_online"></a>
 
