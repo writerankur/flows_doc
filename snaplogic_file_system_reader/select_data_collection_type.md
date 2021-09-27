@@ -6,21 +6,21 @@ You can also choose any one of the available data collection types ****to start 
 
 **Read CSV File**
 
-* **File**: 
-* **Delimiter**:
-* **Skip Lines**:
+* **File**: Enter URL for a regular file. It should start with a file protocol.
+* **Delimiter**: Enter the delimiter character to be used as a delimiter in parsing the CSV data.
+* **Skip Lines**: Enter the number of lines in the input data to be skipped before the Snap starts parsing.
 
 **Read Excel File**
 
-* **File**
+* **File**: Enter URL for a regular file. It should start with a file protocol.
 
 **Read JSON File**
 
-* **File**:
+* **File**: Enter URL for a regular file. It should start with a file protocol.
 
 **Read XML File**
 
-* **File**:
+* **File**: Enter URL for a regular file. It should start with a file protocol.
 
 
 
