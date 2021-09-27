@@ -4,7 +4,7 @@ Enter the following details according to the account selected:
 
 * **Label:** User-provided name for the account instance.
 
-  in Flows. For example, _rest\_sales\_account_, if you are part of the sales team.
+  in Flows. For example, _Filereader\_sales\_account_, if you are part of the sales team.
 
 * **Tenant ID:** The Directory ID of the Azure Active Directory.
 * **Access ID:** The Application ID of the application in the Azure Active Directory.
@@ -12,4 +12,6 @@ Enter the following details according to the account selected:
 * Click any one of the following:
   * **Apply** to save your account information in Flows.
   * **Cancel** to return to the previous screen.
+
+
 
