@@ -9,4 +9,7 @@ Enter the following details according to the account selected:
 * **Username:** Enter a valid username as given in your Snapogic File System Reader basic auth account.
 * **Private key**: Enter the private key part of SSH authentication.
 * **Key Passphrase**: Enter the Passphrase used to decrypt the private key.
+* Click any one of the following:
+  * **Apply** to save your account information in Flows.
+  * **Cancel** to return to the previous screen.
 
