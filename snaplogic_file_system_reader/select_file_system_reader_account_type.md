@@ -10,3 +10,9 @@
 You can click **Choose Account Later** to go back to select an account from the dropdown list.
 {% endhint %}
 
+
+
+{% hint style="info" %}
+You can get the account information from your IT admin or by logging into your Salesforce account.
+{% endhint %}
+
