@@ -59,11 +59,11 @@
 * [Configure Two-Factor Auth account](snaplogic_file_system_reader/configure_two_factor_auth_account.md)
 * [Select your data collection type](snaplogic_file_system_reader/select_data_collection_type.md)
 
-## Sharepoint Online <a id="sharepoint_online"></a>
+## Sharepoint Online <a id="sharepoint"></a>
 
-* [Sharepoint overview](sharepoint_online/sharepoint_overview.md)
-* [Enter your SharePoint account information](sharepoint_online/sharepoint_account_settings.md)
-* [Select your SharePoint data source type](sharepoint_online/sharepoint_file_type.md)
+* [Sharepoint overview](sharepoint/sharepoint_overview.md)
+* [Enter your SharePoint account information](sharepoint/sharepoint_account_settings.md)
+* [Select your SharePoint data source type](sharepoint/sharepoint_file_type.md)
 
 ## ServiceNow
 
