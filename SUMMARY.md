@@ -17,9 +17,9 @@
 
 ## Google Sheets
 
-* [Google Sheets overview](google-sheets/google-sheets-overview.md)
-* [Configure your Google Sheets account](google-sheets/configure-your-google-sheets-account.md)
-* [Enter your Google Spreadsheet information](google-sheets/enter-your-google-spreadsheet-information.md)
+* [Google Sheets overview](google-sheets/google_sheets_overview.md)
+* [Configure your Google Sheets account](google-sheets/google_sheets_account_settings.md)
+* [Enter your Google Spreadsheet information](google-sheets/google_sheets_spreadsheet_info.md)
 
 ## REST
 
@@ -31,7 +31,7 @@
 ## Marketo
 
 * [Marketo overview](marketo/marketo_overview.md)
-* [Select your Marketo account type](marketo/select_your_marketo_account_type.md)
+* [Select your Marketo account type](marketo/marketo_account_type.md)
 * [Configure your Marketo OAuth2 account](marketo/marketo_account_settings.md)
 * [Select your Marketo data source](marketo/marketo_file_type.md)
 
@@ -45,7 +45,7 @@
 
 ## SnapLogic File System Reader <a id="snaplogic_file_system_reader"></a>
 
-* [SnapLogic File System Reader overview](snaplogic_file_system_reader/snaplogic_file_system_reader_overview.md)
+* [SnapLogic File System Reader overview](snaplogic_file_system_reader/snaplogic_fsr_overview.md)
 * [Select your SnapLogic File System Reader account](snaplogic_file_system_reader/select_file_system_reader_account_type.md)
 * [Configure AWS S3 Account](snaplogic_file_system_reader/configure_aws_s3_account.md)
 * [Configure Azure Data Lake Account](snaplogic_file_system_reader/configure_azure_data_lake_account.md)
@@ -68,7 +68,7 @@
 ## ServiceNow
 
 * [ServiceNow overview](servicenow/servicenow_overview.md)
-* [Select your ServiceNow account type](servicenow/select_your_servicenow_account_type.md)
-* [Enter your ServiceNow account information](servicenow/enter_your_servicenow_account_information.md)
-* [Select your ServiceNow data source type](servicenow/select_your_servicenow_data_source_type.md)
+* [Select your ServiceNow account type](servicenow/servicenow_account_type.md)
+* [Enter your ServiceNow account information](servicenow/servicenow_account_settings.md)
+* [Select your ServiceNow data source type](servicenow/servicenow_file_type.md)
 
