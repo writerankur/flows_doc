@@ -69,7 +69,7 @@ Field names marked with an asterisk \( **\*** \) in the application are mandator
 
 * **Client ID:** The client ID associated with your account. You can create the client ID as advised by your application provider.
 * **Client Secret**: The client secret associated with your account. You can create the client secret as advised by your application provider.
-* **Access token**:  _Auto-generated after authorization._ The token that SnapLogic uses to make API requests on behalf of the user associated with the client ID.
+* **Access token**: _Auto-generated after authorization._ The token that SnapLogic uses to make API requests on behalf of the user associated with the client ID.
 *  **Refresh token**:  _Auto-generated after authorization_. The refresh token associated with your account. If the refresh token is stored, then the access token can be refreshed automatically before it expires.
 * **Access token expiration**: _Auto-generated after authorization_. The access token expiration value, in seconds.
 * **Header authenticated**: Select this check box to indicate that the endpoint uses bearer header authentication.
