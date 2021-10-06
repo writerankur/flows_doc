@@ -75,7 +75,9 @@
 ## Target endpoints
 
 * [Google Sheets](target-endpoints/google-sheets.md)
-* [Untitled](target-endpoints/untitled-2.md)
-* [Untitled](target-endpoints/untitled-3.md)
-* [Untitled](target-endpoints/untitled.md)
+* [Salesforce](target-endpoints/untitled-2.md)
+* [Salesforce Upsert](target-endpoints/untitled-3.md)
+* [Slack](target-endpoints/untitled.md)
+* [Untitled](target-endpoints/untitled-4.md)
+* [Untitled](target-endpoints/untitled-1.md)
 
