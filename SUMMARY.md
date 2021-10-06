@@ -72,3 +72,10 @@
 * [Enter your ServiceNow account information](servicenow/servicenow_account_settings.md)
 * [Select your ServiceNow data source type](servicenow/servicenow_file_type.md)
 
+## Target endpoints
+
+* [Google Sheets](target-endpoints/google-sheets.md)
+* [Untitled](target-endpoints/untitled-2.md)
+* [Untitled](target-endpoints/untitled-3.md)
+* [Untitled](target-endpoints/untitled.md)
+
