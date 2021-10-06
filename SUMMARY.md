@@ -74,10 +74,18 @@
 
 ## Target endpoints
 
-* [Google Sheets](target-endpoints/google-sheets.md)
+* [Google Sheets](target-endpoints/google-sheets/README.md)
+  * [Untitled](target-endpoints/google-sheets/untitled-5/README.md)
+    * [Untitled](target-endpoints/google-sheets/untitled-5/untitled-6.md)
 * [Salesforce](target-endpoints/untitled-2.md)
 * [Salesforce Upsert](target-endpoints/untitled-3.md)
 * [Slack](target-endpoints/untitled.md)
-* [Untitled](target-endpoints/untitled-4.md)
-* [Untitled](target-endpoints/untitled-1.md)
+* [Email Sender](target-endpoints/untitled-4.md)
+* [My SQL](target-endpoints/untitled-1.md)
+* [Marketo](target-endpoints/marketo.md)
+* [Box](target-endpoints/box.md)
+* [SnapLogic File System Writer](target-endpoints/snaplogic-file-system-writer.md)
+* [SharePoint Online](target-endpoints/sharepoint-online.md)
+* [ServiceNow](target-endpoints/servicenow.md)
+* [Pipeline Execute](target-endpoints/pipeline-execute.md)
 
