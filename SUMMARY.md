@@ -74,9 +74,9 @@
 
 ## Target endpoints
 
-* [Google Sheets](target-endpoints/google-sheets/README.md)
-  * [Untitled](target-endpoints/google-sheets/untitled-5/README.md)
-    * [Untitled](target-endpoints/google-sheets/untitled-5/untitled-6.md)
+* [Google Sheets](target-endpoints/google_sheets/README.md)
+  * [Untitled](target-endpoints/google_sheets/untitled-5/README.md)
+    * [Untitled](target-endpoints/google_sheets/untitled-5/untitled-6.md)
 * [Untitled](target-endpoints/untitled-5.md)
 * [Salesforce](target-endpoints/untitled-2.md)
 * [Salesforce Upsert](target-endpoints/untitled-3.md)
