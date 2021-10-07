@@ -88,5 +88,4 @@
 * [SnapLogic File System Writer](target-endpoints/snaplogic-file-system-writer.md)
 * [SharePoint Online](target-endpoints/sharepoint-online.md)
 * [ServiceNow](target-endpoints/servicenow.md)
-* [Pipeline Execute](target-endpoints/pipeline-execute.md)
 
