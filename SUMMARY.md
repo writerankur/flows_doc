@@ -75,6 +75,7 @@
 ## Target endpoints
 
 * [Google Sheets](target-endpoints/google_sheets/README.md)
+  * [Untitled](target-endpoints/google_sheets/untitled-5.md)
   * [Google Sheets overview](target-endpoints/google_sheets/google_sheets_overview.md)
   * [Configure your Google Sheets account](target-endpoints/google_sheets/google_sheets_account_settings.md)
   * [Enter your Google Spreadsheet information](target-endpoints/google_sheets/google_sheets_spreadsheet_info.md)
@@ -84,7 +85,6 @@
   * [Configure Salesforce.com dynamic account](target-endpoints/untitled-2/configure-salesforce.com-dynamic-account.md)
   * [Configure Salesforce.com account](target-endpoints/untitled-2/configure-salesforce.com-account.md)
   * [Select your object type](target-endpoints/untitled-2/select-your-object-type.md)
-* [Untitled](target-endpoints/untitled-5.md)
 * [Salesforce Upsert](target-endpoints/untitled-3.md)
 * [Slack](target-endpoints/untitled.md)
 * [Email Sender](target-endpoints/untitled-4.md)
