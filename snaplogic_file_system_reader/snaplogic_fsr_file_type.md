@@ -2,7 +2,7 @@
 
 Select the **Data Collection Type** from where your data will be sourced to configure this Flow. 
 
-You can also choose any one of the available data collection types ****to start your Flow and provide the following information:
+You can also choose any one of the available data collection types** **to start your Flow and provide the following information:
 
 **Read CSV File**
 
@@ -21,6 +21,4 @@ You can also choose any one of the available data collection types ****to start 
 **Read XML File**
 
 * **File**: Enter URL for a regular file. It should start with a file protocol.
-
-
 
