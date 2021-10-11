@@ -71,3 +71,8 @@
 * [Select your ServiceNow account type](servicenow/servicenow_account_type.md)
 * [Enter your ServiceNow account information](servicenow/servicenow_account_settings.md)
 * [Select your ServiceNow data source type](servicenow/servicenow_file_type.md)
+
+## Target_Endpoints
+
+* [ServiceNow](target_endpoints/servicenow/README.md)
+  * [ServiceNow_overview](target_endpoints/servicenow/servicenow_overview.md)
