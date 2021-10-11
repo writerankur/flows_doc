@@ -43,21 +43,21 @@
 
 * [CSV Generator overview](csv_generator/csv_generator_overview.md)
 
-## SnapLogic File System Reader <a href="snaplogic_fsr_reader" id="snaplogic_fsr_reader"></a>
+## SnapLogic File System Reader <a href="snaplogic_fsr" id="snaplogic_fsr"></a>
 
-* [SnapLogic File System Reader overview](snaplogic_fsr_reader/snaplogic_fsr_overview.md)
-* [Select your SnapLogic File System Reader account](snaplogic_fsr_reader/snaplogic_fsr_account_type.md)
-* [Configure AWS S3 Account](snaplogic_fsr_reader/snaplogic_fsr_aws_s3\_account.md)
-* [Configure Azure Data Lake Account](snaplogic_fsr_reader/snaplogic_fsr_azure_data_lake_account.md)
-* [Configure Azure Storage Account](snaplogic_fsr_reader/snaplogic_fsr_azure_storage.md)
-* [Configure Basic Auth account](snaplogic_fsr_reader/snaplogic_fsr_basic_auth_account.md)
-* [Configure Google Service account](snaplogic_fsr_reader/snaplogic_fsr_google_service_account.md)
-* [Configure Google Storage account](snaplogic_fsr_reader/snaplogic_fsr_google_storage_account.md)
-* [Configure S3 Dynamic account](snaplogic_fsr_reader/snaplogic_fsr_s3\_dynamic_account.md)
-* [Configure SMB Account](snaplogic_fsr_reader/snaplogic_fsr_smb_account.md)
-* [Configure SSH Auth account](snaplogic_fsr_reader/snaplogic_fsr_ssh_auth_account.md)
-* [Configure Two-Factor Auth account](snaplogic_fsr_reader/snaplogic_fsr_two_factor_auth_account.md)
-* [Select your data collection type](snaplogic_fsr_reader/snaplogic_fsr_file_type.md)
+* [SnapLogic File System Reader overview](snaplogic_fsr/snaplogic_fsr_overview.md)
+* [Select your SnapLogic File System Reader account](snaplogic_fsr/snaplogic_fsr_account_type.md)
+* [Configure AWS S3 Account](snaplogic_fsr/snaplogic_fsr_aws_s3\_account.md)
+* [Configure Azure Data Lake Account](snaplogic_fsr/snaplogic_fsr_azure_data_lake_account.md)
+* [Configure Azure Storage Account](snaplogic_fsr/snaplogic_fsr_azure_storage.md)
+* [Configure Basic Auth account](snaplogic_fsr/snaplogic_fsr_basic_auth_account.md)
+* [Configure Google Service account](snaplogic_fsr/snaplogic_fsr_google_service_account.md)
+* [Configure Google Storage account](snaplogic_fsr/snaplogic_fsr_google_storage_account.md)
+* [Configure S3 Dynamic account](snaplogic_fsr/snaplogic_fsr_s3\_dynamic_account.md)
+* [Configure SMB Account](snaplogic_fsr/snaplogic_fsr_smb_account.md)
+* [Configure SSH Auth account](snaplogic_fsr/snaplogic_fsr_ssh_auth_account.md)
+* [Configure Two-Factor Auth account](snaplogic_fsr/snaplogic_fsr_two_factor_auth_account.md)
+* [Select your data collection type](snaplogic_fsr/snaplogic_fsr_file_type.md)
 
 ## Sharepoint Online <a href="sharepoint" id="sharepoint"></a>
 
