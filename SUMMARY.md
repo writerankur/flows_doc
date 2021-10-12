@@ -71,7 +71,3 @@
 * [Select your ServiceNow account type](servicenow/servicenow_account_type.md)
 * [Enter your ServiceNow account information](servicenow/servicenow_account_settings.md)
 * [Select your ServiceNow data source type](servicenow/servicenow_file_type.md)
-
-## Group 1
-
-* [Page 1](group-1/page-1.md)
