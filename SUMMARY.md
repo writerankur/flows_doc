@@ -47,7 +47,7 @@
 
 * [SnapLogic File System Reader overview](snaplogic_fsr/snaplogic_fsr_overview.md)
 * [Select your SnapLogic File System Reader account](snaplogic_fsr/snaplogic_fsr_account_type.md)
-* [Configure AWS S3 Account](snaplogic_fsr/snaplogic_fsr_aws_s3\_account.md)
+* [Configure your account settings](snaplogic_fsr/snaplogic_fsr_account_settings.md)
 * [Configure Azure Data Lake Account](snaplogic_fsr/snaplogic_fsr_azure_data_lake_account.md)
 * [Configure Azure Storage Account](snaplogic_fsr/snaplogic_fsr_azure_storage.md)
 * [Configure Basic Auth account](snaplogic_fsr/snaplogic_fsr_basic_auth_account.md)
