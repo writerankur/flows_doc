@@ -12,6 +12,7 @@
 ## Box
 
 * [Box overview](box/box_overview.md)
+* [testing_page](box/testing_page.md)
 * [Configure your Box account](box/box_account.md)
 * [Select your Box data source](box/box_file_type.md)
 
