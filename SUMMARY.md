@@ -54,7 +54,6 @@
 * [Configure Google Service account](snaplogic_fsr/snaplogic_fsr_google_service_account.md)
 * [Configure Google Storage account](snaplogic_fsr/snaplogic_fsr_google_storage_account.md)
 * [Configure S3 Dynamic account](snaplogic_fsr/snaplogic_fsr_s3\_dynamic_account.md)
-  * [Testing_slug](snaplogic_fsr/snaplogic_fsr_s3\_dynamic_account/testing_slug.md)
 * [Configure SMB Account](snaplogic_fsr/snaplogic_fsr_smb_account.md)
 * [Configure SSH Auth account](snaplogic_fsr/snaplogic_fsr_ssh_auth_account.md)
 * [Configure Two-Factor Auth account](snaplogic_fsr/snaplogic_fsr_two_factor_auth_account.md)
