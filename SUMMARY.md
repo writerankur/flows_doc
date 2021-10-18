@@ -82,3 +82,22 @@
   * [Salesforce Overview](target-endpoints/salesforce-target-endpoint/salesforce-overview.md)
   * [Select your Salesforce account type](target-endpoints/salesforce-target-endpoint/select-your-salesforce-account-type.md)
   * [Select your object type](target-endpoints/salesforce-target-endpoint/select-your-object-type.md)
+
+***
+
+* [Salesforce Upsert - Target endpoint](salesforce-upsert-target-endpoint/README.md)
+  * [Salesforce Upsert Overview](salesforce-upsert-target-endpoint/salesforce-upsert-overview.md)
+  * [Configure Salesforce Upsert account settings](salesforce-upsert-target-endpoint/configure-salesforce-upsert-account-settings.md)
+  * [Configure Salesforce Upsert settings](salesforce-upsert-target-endpoint/configure-salesforce-upsert-settings.md)
+* [Slack - Target endpoint](slack-target-endpoint/README.md)
+  * [Slack overview](slack-target-endpoint/slack-overview.md)
+  * [Configure your Slack account settings](slack-target-endpoint/configure-your-slack-account-settings.md)
+  * [Configure Slack settings](slack-target-endpoint/configure-slack-settings.md)
+* [Email Sender - Target endpoint](email-sender-target-endpoint/README.md)
+  * [Email Sender overview](email-sender-target-endpoint/email-sender-overview.md)
+  * [Configure your Email Sender account settings](email-sender-target-endpoint/configure-your-email-sender-account-settings.md)
+  * [Configure Email Sender settings](email-sender-target-endpoint/configure-email-sender-settings.md)
+* [My SQL - Target endpoint](my-sql-target-endpoint/README.md)
+  * [MySQL overview](my-sql-target-endpoint/mysql-overview.md)
+  * [Configure MySQL settings](my-sql-target-endpoint/configure-mysql-settings.md)
+  * [Configure MySQL account settings](my-sql-target-endpoint/configure-mysql-account-settings.md)
