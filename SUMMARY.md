@@ -12,8 +12,8 @@
 ## Box
 
 * [Box overview](box/box\_overview.md)
-* [Configure your Box account](box/box\_account.md)
-* [Select your Box data source](box/box\_file\_type.md)
+* [Configure your Box account settings](box/box\_account.md)
+* [Select your Box data collection type](box/box\_file\_type.md)
 
 ## Google Sheets <a href="google_sheets" id="google_sheets"></a>
 
@@ -108,7 +108,7 @@
 * [Box - Target endpoint](box-target-endpoint/README.md)
   * [Box overview](box-target-endpoint/box-overview.md)
   * [Configure Box account settings](box-target-endpoint/configure-box-account-settings.md)
-  * [Configure Box Data Collection Type](box-target-endpoint/configure-box-data-collection-type.md)
+  * [Select Box Data Collection Type](box-target-endpoint/select-box-data-collection-type.md)
 * [Snaplogic File System Reader - Target endpoint](snaplogic-file-system-reader-target-endpoint/README.md)
   * [Snaplogic File System Reader overview](snaplogic-file-system-reader-target-endpoint/trg\_snaplogic\_fsr\_overview.md)
   * [Configure Snaplogic File System Reader account settings](<snaplogic-file-system-reader-target-endpoint/trg\_snaplogic\_fsr\_account\_settings .md>)
