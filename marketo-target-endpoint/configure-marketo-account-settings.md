@@ -1,2 +1,0 @@
-# Configure Marketo account settings
-
