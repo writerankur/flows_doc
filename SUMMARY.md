@@ -62,7 +62,7 @@
 ## Sharepoint Online <a href="sharepoint" id="sharepoint"></a>
 
 * [Sharepoint overview](sharepoint/sharepoint\_overview.md)
-* [Enter your SharePoint account information](sharepoint/sharepoint\_account\_settings.md)
+* [Configure your SharePoint account settings](sharepoint/sharepoint\_account\_settings.md)
 * [Select your SharePoint data source type](sharepoint/sharepoint\_file\_type.md)
 
 ## ServiceNow

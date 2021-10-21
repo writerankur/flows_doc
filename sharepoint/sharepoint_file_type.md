@@ -1,24 +1,28 @@
 # Select your SharePoint data source type
 
-Select the SharePoint **Data Source Type** from where your data will be sourced to configure this Flow. 
+Choose any one of the following **Data Source Types **to start your Flow and provide the following information:
 
-Most data source types require a **Site Name** and/or a **Document library**:
+* **Get Document Library**:** **Select this data source type to get the metadata of an item from the SharePoint Online document library.
+  * **Site**: The name of a site that contains the list of document libraries to be used in the subsequent Snap settings.
+*   **Get Item**:** **Select this data source type to get the metadata of files and folders from the SharePoint Online document library.
 
-* **Site Name**: The name of a site that contains the list of document libraries to be used in the subsequent Snap settings.
-* **Document library**: Select a drive representing the top-level container for a file system, such as OneDrive or SharePoint document libraries. 
+    * **Site: **The name of a site that contains the list of document libraries to be used in the subsequent Snap settings.
+    * **Document library: **Select the drive representing the top-level container for the system., such as Onedrive or Sharepoint document libraries.
+    * **Source item relative path:** Enter the item resource path that represents a file, folder, or other item stored in a document library to get the available permissions on the item.
 
-You can also choose any one of the available **Data Source Types **to start your Flow and provide the following information:
+    ****
 
-**Get Document Library**:** **Select this data source type to get the metadata of an item from the SharePoint Online document library.
+&#x20;
+
+
+
+****
 
 * Enter the **Site**.
 
-**Get Item**:** **Select this data source type to get the metadata of files and folders from the SharePoint Online document library.
+****
 
-* Enter the **Site**.
-* Enter the **Document library** or select it from the dropdown list.
-
-**Get Item Children**:** **Select this data source type to fetch the children of items from the selected SharePoint Online document library. 
+**Get Item Children**:** **Select this data source type to fetch the children of items from the selected SharePoint Online document library.&#x20;
 
 * Enter the **Site**.
 * Enter the **Document library** or select it from the dropdown list.
