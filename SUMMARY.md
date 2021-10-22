@@ -99,6 +99,7 @@
   * [Configure your Slack account settings](slack-target-endpoint/configure-your-slack-account-settings-3.md)
   * [Configure your Slack account settings](slack-target-endpoint/configure-your-slack-account-settings-4.md)
   * [Configure your Slack account settings](slack-target-endpoint/configure-your-slack-account-settings-5.md)
+  * [Configure your Slack account settings](slack-target-endpoint/configure-your-slack-account-settings-6.md)
 * [Email Sender - Target endpoint](email-sender-target-endpoint/README.md)
   * [Email Sender overview](email-sender-target-endpoint/trg\_email\_sender\_overview.md)
   * [Configure your Email Sender account settings](email-sender-target-endpoint/trg\_email\_sender\_account\_settings.md)
