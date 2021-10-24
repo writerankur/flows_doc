@@ -46,7 +46,7 @@
 ## SnapLogic File System Reader <a href="snaplogic_fsr" id="snaplogic_fsr"></a>
 
 * [SnapLogic File System Reader overview](snaplogic\_fsr/snaplogic\_fsr\_overview.md)
-* [Configure SnapLogic File System Reader account](snaplogic\_fsr/snaplogic\_fsr\_account\_settings.md)
+* [Configure SnapLogic File System Reader account settings](snaplogic\_fsr/snaplogic\_fsr\_account\_settings.md)
 * [Configure Azure Data Lake Account](snaplogic\_fsr/snaplogic\_fsr\_azure\_settings.md)
 * [Configure Azure Storage Account](snaplogic\_fsr/snaplogic\_fsr\_azure\_storage.md)
 * [Configure Basic Auth account](snaplogic\_fsr/snaplogic\_fsr\_basic\_auth\_account.md)
