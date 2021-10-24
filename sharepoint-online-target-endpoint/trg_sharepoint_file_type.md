@@ -1,6 +1,6 @@
 # Configure SharePoint Online Data Delivery Type
 
-Select your SharePoint endpoint for any one of the following data delivery types to start your Flow and provide the following information:
+Select any one of the following data delivery types to start your Flow and provide the following information:
 
 * **Create Folder**: Select this data delivery type to create a folder both in a SharePoint Online document library and within another item of type folder.
   * **Site**: The name of a site that contains the list of document libraries to be used in the subsequent Snap settings.
