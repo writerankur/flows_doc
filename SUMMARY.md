@@ -101,6 +101,7 @@
   * [MySQL overview](my-sql-target-endpoint/trg\_mysql\_overview.md)
   * [Configure MySQL settings](my-sql-target-endpoint/trg\_mysql\_account\_settings.md)
   * [Configure MySQL account settings](my-sql-target-endpoint/trg\_mysql\_settings.md)
+  * [My SQL account settings](my-sql-target-endpoint/my-sql-account-settings.md)
 * [Marketo - Target endpoint](marketo-target-endpoint/README.md)
   * [Marketo overview](marketo-target-endpoint/trg\_marketo\_overview.md)
   * [Configure your Marketo account settings](marketo-target-endpoint/trg\_marketo\_account\_settings.md)
