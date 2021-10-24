@@ -46,9 +46,8 @@
 ## SnapLogic File System Reader <a href="snaplogic_fsr" id="snaplogic_fsr"></a>
 
 * [SnapLogic File System Reader overview](snaplogic\_fsr/snaplogic\_fsr\_overview.md)
-* [Select your SnapLogic File System Reader account](snaplogic\_fsr/snaplogic\_fsr\_account\_type.md)
 * [Configure SnapLogic File System Reader account](snaplogic\_fsr/snaplogic\_fsr\_account\_settings.md)
-* [Configure Azure Data Lake Account](snaplogic\_fsr/snaplogic\_fsr\_azure\_data\_lake\_account.md)
+* [Configure Azure Data Lake Account](snaplogic\_fsr/snaplogic\_fsr\_azure\_settings.md)
 * [Configure Azure Storage Account](snaplogic\_fsr/snaplogic\_fsr\_azure\_storage.md)
 * [Configure Basic Auth account](snaplogic\_fsr/snaplogic\_fsr\_basic\_auth\_account.md)
 * [Configure Google Service account](snaplogic\_fsr/snaplogic\_fsr\_google\_service\_account.md)
@@ -58,6 +57,7 @@
 * [Configure SSH Auth account](snaplogic\_fsr/snaplogic\_fsr\_ssh\_auth\_account.md)
 * [Configure Two-Factor Auth account](snaplogic\_fsr/snaplogic\_fsr\_two\_factor\_auth\_account.md)
 * [Select your data collection type](snaplogic\_fsr/snaplogic\_fsr\_file\_type.md)
+* [Select your SnapLogic File System Reader account](snaplogic\_fsr/snaplogic\_fsr\_account\_type.md)
 
 ## Sharepoint Online <a href="sharepoint" id="sharepoint"></a>
 
