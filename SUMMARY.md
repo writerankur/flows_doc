@@ -105,6 +105,7 @@
   * [Marketo overview](marketo-target-endpoint/trg\_marketo\_overview.md)
   * [Configure your Marketo account settings](marketo-target-endpoint/trg\_marketo\_account\_settings.md)
   * [Select Marketo data collection type](marketo-target-endpoint/trg\_marketo\_data\_type.md)
+  * [Configure your Marketo account settings](marketo-target-endpoint/configure-your-marketo-account-settings.md)
 * [Box - Target endpoint](box-target-endpoint/README.md)
   * [Box overview](box-target-endpoint/box\_overview.md)
   * [Configure Box account settings](box-target-endpoint/trg\_box\_account\_settings.md)
