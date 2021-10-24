@@ -124,6 +124,7 @@
   * [Configure SharePoint Online Data Delivery Type](sharepoint-online-target-endpoint/trg\_sharepoint\_file\_type.md)
 * [Write to Pipeline - Target endpoint](write-to-pipeline-target-endpoint/README.md)
   * [Write to Pipeline overview](write-to-pipeline-target-endpoint/trg\_write\_to\_pipeline\_overview.md)
+  * [Write to Pipeline overview](write-to-pipeline-target-endpoint/write-to-pipeline-overview.md)
 * [MS Teams - Target endpoint](ms-teams-target-endpoint/README.md)
   * [MS Teams Overview](ms-teams-target-endpoint/trg\_ms\_teams\_overview.md)
   * [Configure your MS Teams account settings](ms-teams-target-endpoint/trg\_ms\_teams\_account\_settings.md)
