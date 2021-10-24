@@ -134,6 +134,7 @@
   * [Enter Microsoft Dynamics 365 for Sales information](microsoft-dynamics-365-for-sales-target-endpoint/trg\_microsoft\_dynamics\_object\_type.md)
 * [Read from Pipeline - Source endpoint](read-from-pipeline-source-endpoint/README.md)
   * [Read from Pipeline overview](read-from-pipeline-source-endpoint/read\_to\_pipeline\_overview.md)
+  * [Read to Pipeline overview](read-from-pipeline-source-endpoint/read-to-pipeline-overview.md)
 * [Microsoft Dynamics 365 for Sales - Source endpoint](microsoft-dynamics-365-for-sales-source-endpoint/README.md)
   * [Microsoft Dynamics 365 for Sales overview](microsoft-dynamics-365-for-sales-source-endpoint/microsoft\_dynamics\_overview.md)
   * [Microsoft Dynamics 365 for Sales account settings](microsoft-dynamics-365-for-sales-source-endpoint/microsoft\_dynamics\_account\_settings.md)
