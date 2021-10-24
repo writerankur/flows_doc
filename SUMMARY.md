@@ -103,7 +103,7 @@
   * [Enter the MySQL schema information](my-sql-target-endpoint/trg\_mysql\_settings.md)
 * [Marketo - Target endpoint](marketo-target-endpoint/README.md)
   * [Marketo overview](marketo-target-endpoint/trg\_marketo\_overview.md)
-  * [Configure your Marketo account settings](marketo-target-endpoint/trg\_marketo\_account\_settings.md)
+  * [Configure your Marketo account settings](marketo-target-endpoint/configure-your-marketo-account-settings.md)
   * [Select Marketo data collection type](marketo-target-endpoint/trg\_marketo\_data\_type.md)
 * [Box - Target endpoint](box-target-endpoint/README.md)
   * [Box overview](box-target-endpoint/box\_overview.md)

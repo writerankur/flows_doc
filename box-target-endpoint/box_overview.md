@@ -5,8 +5,7 @@ Box is a secured platform built for the entire content lifecycle, from file crea
 Flows enables you to connect your Box account to:
 
 * Add folders and add collaborators to Box.
-* Browse folders.
-* Read and write files.
+* Browse and write folders.
 * Create users and groups.
 * Perform move, copy and delete operations.
 
