@@ -23,7 +23,7 @@ Enter the following details based on the account selected:&#x20;
 
 **Azure Data Lake account**
 
-* **Label**: Enter a unique name to help identify your SnapLogic File system Reader Azure Data Lake account in Flows. For example, _rest\_sales\_account_, if you are part of the sales team.
+* **Label**: Enter a unique name to help identify your SnapLogic File System Reader Azure Data Lake account in Flows. For example, _rest\_sales\_account_, if you are part of the sales team.
 * **Tenant ID**:** **The Directory ID of the Azure Active Directory.
 * **Access ID**: The Application ID of the application in the Azure Active Directory.
 * **Secret Key**: The authentication key for accessing the Azure Active Directory.
@@ -32,7 +32,7 @@ Enter the following details based on the account selected:&#x20;
 
 *   **Label**: User-provided name for the account instance.
 
-    in Flows. For example, _Filereader\_sales\_account_, if you are part of the sales team.
+    in Flows. For example, _filereader\_sales\_account_, if you are part of the sales team.
 * **Account name**: Enter the Azure storage account name.
 * **Primary access key**: Enter the primary access key for Azure storage account.
 * **Blob endpoint**: Enter the Azure storage blob endpoint. If you do not enter any value, then the account uses your default Azure storage blob endpoint.
@@ -41,9 +41,9 @@ Enter the following details based on the account selected:&#x20;
 
 *   **Label**: User-provided name for the account instance.
 
-    in Flows. For example, _Filereader\_sales\_account_, if you are part of the sales team.
-* **Username**:** **Enter a valid username as given in your Snapogic File System Reader basic auth account.
-* **Password**: Enter the password for the above account as used in your Snapogic File System Reader basic auth account.
+    in Flows. For example, _filereader\_sales\_account_, if you are part of the sales team.
+* **Username**:** **Enter a valid username as given in your SnapLogic File System Reader basic auth account.
+* **Password**: Enter the password for the above account as used in your SnapLogic File System Reader basic auth account.
 * Click any one of the following:
   * **Apply** to save your account information in Flows.
   * **Validate **to verify if your account information is valid by connecting Flows with your SnapLogic File System Reader account.
@@ -51,8 +51,8 @@ Enter the following details based on the account selected:&#x20;
 
 **Google Service Account**
 
-* **Label**: User-provided name for the account instance in Flows. For example, _Filereader\_sales\_account_, if you are part of the sales team.
-* **Project ID**:  Enter the project ID with which the service account is associated. For example, testproject1234
+* **Label**: User-provided name for the account instance in Flows. For example, _filereader\_sales\_account_, if you are part of the sales team.
+* **Project ID**: Enter the project ID with which the service account is associated. For example, testproject1234
 * **JSON Key**: Enter the relative path of the JSON key in the SLDB. For example,  ../shared/testproject1234-a0545b98719d\_dummy.json
 
 **Google Storage Account**
@@ -70,9 +70,9 @@ Enter the following details based on the account selected:&#x20;
 
 **S3 Dynamic Account**
 
-* **Label**:** **User-provided label for the account instance
-* **Access-key ID**:** **Access key ID part of AWS authentication
-* **Secret key**:** **Secret key part of AWS authentication
+* **Label**:** **User-provided label for the account instance.
+* **Access-key ID**:** **Access key ID part of AWS authentication.
+* **Secret key**:** **Secret key part of AWS authentication.
 * **Security Token**:** **Security token part of AWS Security Token Service (STS) credentials\
   **Server-side encryption**: Represents the type of encryption to use for the objects stored in S3.&#x20;
 * **KMS Encryption type**:** **Represents the AWS Key Management Service key used to encrypt S3 objects. It can be the key ID or ARN. The available options are:
@@ -86,14 +86,14 @@ Enter the following details based on the account selected:&#x20;
 
 **SMB Account**
 
-* **Label**: User-provided name for the account instance** **in Flows. For example, _Filereader\_sales\_account_, if you are part of the sales team.
+* **Label**: User-provided name for the account instance** **in Flows. For example, _filereader\_sales\_account_, if you are part of the sales team.
 * **Domain**: Domain of the SMB account
 * **Username**:** **Enter a valid username as given in your SnapLogic File System Reader SMB account.
 * **Password**: Enter the password for the above account as used in your SnapLogic File System Reader SMB account.
 
 **SSH Auth Account **and **Two-Factor Auth account**
 
-* **Label**: User-provided name for the account instance** **in Flows. For example, _Filereader\_sales\_account_, if you are part of the sales team.
+* **Label**: User-provided name for the account instance** **in Flows. For example, _filereader\_sales\_account_, if you are part of the sales team.
 * **Username**: Account username.
 * **Private key**: Private key part of SSH authentication.
 * **Key passphrase**: Passphrase is used to decrypt the private key.
