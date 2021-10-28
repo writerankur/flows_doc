@@ -77,7 +77,7 @@
 * [Google Sheets - Target endpoint](target-endpoints/google-sheets-target-endpoint/README.md)
   * [Google Sheets overview](target-endpoints/google-sheets-target-endpoint/trg\_google\_sheets\_overview.md)
   * [Enter your Google Spreadsheet information](target-endpoints/google-sheets-target-endpoint/enter-your-google-spreadsheet-information.md)
-  * [Configure your Google Sheets account](target-endpoints/google-sheets-target-endpoint/configure-your-google-sheets-account.md)
+  * [Configure your Google Sheets account](target-endpoints/google-sheets-target-endpoint/trg\_google\_sheets\_account\_settings.md)
 * [Salesforce - Target endpoint](target-endpoints/salesforce-target-endpoint/README.md)
   * [Salesforce overview](target-endpoints/salesforce-target-endpoint/trg\_salesforce\_overview.md)
   * [Select your Salesforce account type](target-endpoints/salesforce-target-endpoint/trg\_salesforce\_account\_settings.md)
