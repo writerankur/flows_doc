@@ -1,10 +1,10 @@
-# Configure SnapLogic File System Reader account settings
+# Configure Snaplogic File System Reader account settings
 
 Enter the following details based on the account selected:&#x20;
 
 **AWS S3 account**
 
-* **Label**: Enter a unique name to help identify your SnapLogic File System Reader AWS S3 account in Flows. For example, _rest\_sales\_account_, if you are part of the sales team.
+* **Label**: Enter a unique name to help identify your SnapLogic File System Reader (SFSR) AWS S3 account in Flows. For example, I_\_sales\_account_, if you are part of the sales team.
 * **Access-key ID**:** **Unique access key ID part of AWS authentication.
 * **Secret Key**: Secret key part of AWS authentication
 * **Server-side encryption**: Select this checkbox if you want the S3 file to write and encrypt using the 256-bit Advanced Encryption Standard AAES256.

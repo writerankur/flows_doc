@@ -46,7 +46,7 @@
 ## SnapLogic File System Reader <a href="snaplogic_fsr" id="snaplogic_fsr"></a>
 
 * [SnapLogic File System Reader overview](snaplogic\_fsr/snaplogic\_fsr\_overview.md)
-* [Configure SnapLogic File System Reader account settings](snaplogic\_fsr/snaplogic\_fsr\_account\_settings.md)
+* [Configure Snaplogic File System Reader account settings](snaplogic\_fsr/snaplogic\_fsr\_account\_settings.md)
 * [Configure Azure Data Lake Account](snaplogic\_fsr/snaplogic\_fsr\_azure\_settings.md)
 * [Configure Azure Storage Account](snaplogic\_fsr/snaplogic\_fsr\_azure\_storage.md)
 * [Configure Basic Auth account](snaplogic\_fsr/snaplogic\_fsr\_basic\_auth\_account.md)
@@ -76,7 +76,6 @@
 
 * [Google Sheets - Target endpoint](target-endpoints/google-sheets-target-endpoint/README.md)
   * [Google Sheets overview](target-endpoints/google-sheets-target-endpoint/trg\_google\_sheets\_overview.md)
-  * [Configure your Google Sheets account](target-endpoints/google-sheets-target-endpoint/trg\_configure\_google\_sheets\_account.md)
   * [Enter your Google Spreadsheet information](target-endpoints/google-sheets-target-endpoint/enter-your-google-spreadsheet-information.md)
   * [Configure your Google Sheets account](target-endpoints/google-sheets-target-endpoint/configure-your-google-sheets-account.md)
 * [Salesforce - Target endpoint](target-endpoints/salesforce-target-endpoint/README.md)
