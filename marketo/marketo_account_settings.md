@@ -10,10 +10,10 @@
    * Select the **Header Authenticated** checkbox if the endpoint uses bearer header authentication.
    * In **OAuth2 Endpoint,** enter the authorization endpoint to authorize the application.
    * **OAuth2 Token**, enter the token endpoint to get the access token.
-   * **Token endpoint config**: Enable this if the endpoint uses bearer header authentication. This field set comprises the following fields:
+   * **Token endpoint config**: Enable this if the endpoint uses bearer header authentication. This fieldset comprises the following fields:
      * Token endpoint parameter
      * Token endpoint parameter value
-   * **Auth endpoint config**: Use this field set to assign scopes for the OAuth2 authentication endpoint for the account. It is recommended to define at least one scope entry in this field set. This field set comprises the following fields:
+   * **Auth endpoint config**: Use this fieldset to assign scopes for the OAuth2 authentication endpoint for the account. It is recommended to define at least one scope entry in this fieldset. This fieldset comprises the following fields:
      * Authentication parameter
      * Authentication parameter value
 2. Select the **Auto-refresh token** checkbox to refresh the token automatically using your Marketo account's refresh token.
