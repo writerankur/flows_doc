@@ -81,14 +81,14 @@ The available options are:
 
 **SMB Account**
 
-* **Label:** User-provided name for the account instance** **in Flows. For example, _Filereader\_sales\_account_, if you are part of the sales team.
+* **Label:** User-provided name for the account instance** **in Flows. For example, _smb\_sales\_account_, if you are part of the sales team.
 * **Domain**: Domain of the SMB account
 * **Username: **Enter a valid username as given in your Snapogic File System Reader SMB account.
 * **Password:** Enter the password for the above account as used in your Snapogic File System Reader SMB account.
 
 **SSH Auth Account **and **Two-Factor Auth account**
 
-* **Label**: User-provided name for the account instance** **in Flows. For example, _Filereader\_sales\_account_, if you are part of the sales team.
+* **Label**: User-provided name for the account instance** **in Flows. For example, _ssh\_sales\_account_, if you are part of the sales team.
 * **Username**: Account username.
 * **Private key**: Private key part of SSH authentication.
 * **Key passphrase**: Passphrase is used to decrypt the private key.

@@ -62,8 +62,8 @@
 ## Sharepoint Online <a href="sharepoint" id="sharepoint"></a>
 
 * [Sharepoint overview](sharepoint/sharepoint\_overview.md)
-* [Configure your SharePoint account settings](sharepoint/sharepoint\_account\_settings.md)
 * [Select your SharePoint data source type](sharepoint/sharepoint\_file\_type.md)
+* [Configure your SharePoint Online account settings](sharepoint/trg\_sharepoint\_account\_settings.md)
 
 ## ServiceNow
 
@@ -112,15 +112,15 @@
 * [Snaplogic File System Writer- Target endpoint](snaplogic-file-system-writer-target-endpoint/README.md)
   * [Snaplogic File System Writer overview](snaplogic-file-system-writer-target-endpoint/trg\_snaplogic\_fsr\_overview.md)
   * [Select Snaplogic File System Writer Data Collection Type](snaplogic-file-system-writer-target-endpoint/trg\_snaplogic\_fsr\_file\_type.md)
-  * [Configure Snaplogic File System Writer account settings](snaplogic-file-system-writer-target-endpoint/configure-snaplogic-file-system-writer-account-settings.md)
+  * [Configure Snaplogic File System Writer account settings](snaplogic-file-system-writer-target-endpoint/trg\_snaplogic\_fsr\_account\_settings.md)
 * [ServiceNow - Target endpoint](servicenow-target-endpoint/README.md)
   * [Configure your ServiceNow account settings](servicenow-target-endpoint/trg\_servicenow\_account\_settings.md)
   * [Select ServiceNow data delivery type](servicenow-target-endpoint/trg\_servicenow\_data\_delivery\_type.md)
   * [ServiceNow Overview](<servicenow-target-endpoint/trg\_servicenow\_overview .md>)
 * [SharePoint Online - Target endpoint](sharepoint-online-target-endpoint/README.md)
-  * [SharePoint Online overview](sharepoint-online-target-endpoint/trg\_sharepoint\_overview.md)
   * [Configure your SharePoint Online account settings](<sharepoint-online-target-endpoint/trg\_sharepoint\_account\_settings .md>)
   * [Configure SharePoint Online Data Delivery Type](sharepoint-online-target-endpoint/trg\_sharepoint\_file\_type.md)
+  * [SharePoint Online overview](sharepoint-online-target-endpoint/trg\_sharepoint\_overview.md)
 * [Write to Pipeline - Target endpoint](write-to-pipeline-target-endpoint/README.md)
   * [Write to Pipeline overview](write-to-pipeline-target-endpoint/trg\_write\_to\_pipeline\_overview.md)
 * [MS Teams - Target endpoint](ms-teams-target-endpoint/README.md)

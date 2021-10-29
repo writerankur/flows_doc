@@ -1,7 +1,5 @@
 # Configure Snaplogic File System Writer account settings
 
-Configure Snaplogic File System Writer account settings
-
 Enter the following details based on the account selected:
 
 **AWS S3 account**
@@ -87,7 +85,7 @@ Enter the following details based on the account selected:
 
 **SSH Auth Account **and **Two-Factor Auth account**
 
-* **Label**: User-provided name for the account instance** **in Flows. For example, _Filereader\_sales\_account_, if you are part of the sales team.
+* **Label**: User-provided name for the account instance** **in Flows. For example, _ssh\_sales\_account_, if you are part of the sales team.
 * **Username**: Account username.
 * **Private key**: Private key part of SSH authentication.
 * **Key passphrase**: Passphrase is used to decrypt the private key.
