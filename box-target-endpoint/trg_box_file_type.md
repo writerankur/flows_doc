@@ -1,8 +1,6 @@
-# Select Box Data Collection Type
+# Select Box data collection type
 
-Select the Box **Data Collection Type** from where your data will be sourced to configure this Flow.&#x20;
-
-You can also choose any one of the available **Data Collection Types **to start your Flow and provide the following information:
+Select any one of the following available **Data Collection Types** to write your data in this Flow.
 
 **Write CSV File**
 

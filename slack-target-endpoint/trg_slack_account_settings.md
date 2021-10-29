@@ -7,7 +7,7 @@ Configure your account with the following details:
 1. Configure your account with the following details:
    * **Label**: Specify a unique label for the account.
    * **Access** **token**: The access token associated with the Slack application is used to make API requests on behalf of the user associated with the client ID.
-   * **Header** **authenticated**: Select this check box to specify that Slack uses the bearer header authentication.
+   * **Header** **authenticated**: Select this checkbox to specify that Slack uses the bearer header authentication.
 2. Click any one of the following:
    * Apply to save your account information in Flows.
    * Save & Validate to verify if your account information is valid by connecting Flows with your Salesforce.com account.
@@ -33,6 +33,6 @@ Configure your account with the following details:
      * Authentication parameter value: Provide the value for the parameter, typically one of the Bot scopes.
    * Auto-refresh token: You need not select this checkbox as the bot token never expires.
 2. Click any one of the following:
-   * Apply to save your account information in Flows.
-   * Save & Validate to verify if your account information is valid by connecting Flows with your Salesforce.com account.
-   * Cancel to return to the previous screen.
+   * **Apply **to save your account information in Flows.
+   * **Save **& **Validate** to verify if your account information is valid by connecting Flows with your Salesforce.com account.
+   * **Cancel** to return to the previous screen.

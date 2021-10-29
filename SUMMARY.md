@@ -46,7 +46,6 @@
 ## SnapLogic File System Reader <a href="snaplogic_fsr" id="snaplogic_fsr"></a>
 
 * [SnapLogic File System Reader overview](snaplogic\_fsr/snaplogic\_fsr\_overview.md)
-* [Configure Snaplogic File System Reader account settings](snaplogic\_fsr/snaplogic\_fsr\_account\_settings.md)
 * [Configure Azure Data Lake Account](snaplogic\_fsr/snaplogic\_fsr\_azure\_settings.md)
 * [Configure Azure Storage Account](snaplogic\_fsr/snaplogic\_fsr\_azure\_storage.md)
 * [Configure Basic Auth account](snaplogic\_fsr/snaplogic\_fsr\_basic\_auth\_account.md)
@@ -58,6 +57,7 @@
 * [Configure Two-Factor Auth account](snaplogic\_fsr/snaplogic\_fsr\_two\_factor\_auth\_account.md)
 * [Select your data collection type](snaplogic\_fsr/snaplogic\_fsr\_file\_type.md)
 * [Select your SnapLogic File System Reader account](snaplogic\_fsr/snaplogic\_fsr\_account\_type.md)
+* [Configure Snaplogic File System Writer account settings](snaplogic\_fsr/snaplogic\_fsr\_account\_settings.md)
 
 ## Sharepoint Online <a href="sharepoint" id="sharepoint"></a>
 
@@ -111,8 +111,8 @@
   * [Select Box data collection type](box-target-endpoint/trg\_box\_file\_type.md)
 * [Snaplogic File System Writer- Target endpoint](snaplogic-file-system-writer-target-endpoint/README.md)
   * [Snaplogic File System Writer overview](snaplogic-file-system-writer-target-endpoint/trg\_snaplogic\_fsr\_overview.md)
-  * [Configure Snaplogic File System Writer account settings](<snaplogic-file-system-writer-target-endpoint/trg\_snaplogic\_fsr\_account\_settings .md>)
   * [Select Snaplogic File System Writer Data Collection Type](snaplogic-file-system-writer-target-endpoint/trg\_snaplogic\_fsr\_file\_type.md)
+  * [Configure Snaplogic File System Writer account settings](snaplogic-file-system-writer-target-endpoint/configure-snaplogic-file-system-writer-account-settings.md)
 * [ServiceNow - Target endpoint](servicenow-target-endpoint/README.md)
   * [Configure your ServiceNow account settings](servicenow-target-endpoint/trg\_servicenow\_account\_settings.md)
   * [Select ServiceNow data delivery type](servicenow-target-endpoint/trg\_servicenow\_data\_delivery\_type.md)
