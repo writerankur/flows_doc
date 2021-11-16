@@ -9,11 +9,11 @@
 * [Select your Salesforce account type](salesforce/salesforce\_account\_settings.md)
 * [Select your object type](salesforce/salesforce\_object.md)
 
-## Box
+## Box <a href="trg_box" id="trg_box"></a>
 
-* [Box overview](box/box\_overview.md)
-* [Configure your Box account settings](box/box\_account.md)
-* [Select your Box data collection type](box/box\_file\_type.md)
+* [Box overview](trg\_box/trg\_box\_overview.md)
+* [Configure your Box account settings](trg\_box/box\_account.md)
+* [Select your Box data collection type](trg\_box/box\_file\_type.md)
 
 ## Google Sheets <a href="google_sheets" id="google_sheets"></a>
 
