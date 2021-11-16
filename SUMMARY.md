@@ -9,11 +9,11 @@
 * [Select your Salesforce account type](salesforce/salesforce\_account\_settings.md)
 * [Select your object type](salesforce/salesforce\_object.md)
 
-## Box <a href="trg_box" id="trg_box"></a>
+## Box
 
-* [Box overview](trg\_box/trg\_box\_overview.md)
-* [Configure your Box account settings](trg\_box/box\_account.md)
-* [Select your Box data collection type](trg\_box/box\_file\_type.md)
+* [Box overview](box/box\_overview.md)
+* [Configure your Box account settings](box/box\_account.md)
+* [Select your Box data collection type](box/box\_file\_type.md)
 
 ## Google Sheets <a href="google_sheets" id="google_sheets"></a>
 
@@ -74,10 +74,10 @@
 
 ## Target Endpoints
 
-* [Google Sheets - Target endpoint](target-endpoints/google-sheets-target-endpoint/README.md)
-  * [Google Sheets overview](target-endpoints/google-sheets-target-endpoint/trg\_google\_sheets\_overview.md)
-  * [Enter your Google Spreadsheet information](target-endpoints/google-sheets-target-endpoint/enter-your-google-spreadsheet-information.md)
-  * [Configure your Google Sheets account](target-endpoints/google-sheets-target-endpoint/trg\_google\_sheets\_account\_settings.md)
+* [Google Sheets - Target endpoint](target-endpoints/trg\_google\_sheets/README.md)
+  * [Google Sheets overview](target-endpoints/trg\_google\_sheets/trg\_google\_sheets\_overview.md)
+  * [Enter your Google Spreadsheet information](target-endpoints/trg\_google\_sheets/trg\_google\_sheets\_spreadsheet\_info.md)
+  * [Configure your Google Sheets account](target-endpoints/trg\_google\_sheets/trg\_google\_sheets\_account\_settings.md)
 * [Salesforce - Target endpoint](target-endpoints/salesforce-target-endpoint/README.md)
   * [Salesforce overview](target-endpoints/salesforce-target-endpoint/trg\_salesforce\_overview.md)
   * [Select your Salesforce account type](target-endpoints/salesforce-target-endpoint/trg\_salesforce\_account\_settings.md)
