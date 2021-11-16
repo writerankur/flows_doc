@@ -109,7 +109,7 @@
   * [Box overview](trg\_box/trg\_box\_overview.md)
   * [Configure Box account settings](trg\_box/trg\_box\_account\_settings.md)
   * [Select Box data collection type](trg\_box/trg\_box\_file\_type.md)
-* [Snaplogic File System Writer- Target endpoint](trg\_snaplogic\_fsr/README.md)
+* [Snaplogic File System Writer - Target endpoint](trg\_snaplogic\_fsr/README.md)
   * [Snaplogic File System Writer overview](trg\_snaplogic\_fsr/trg\_snaplogic\_fsr\_overview.md)
   * [Select Snaplogic File System Writer Data Collection Type](trg\_snaplogic\_fsr/trg\_snaplogic\_fsr\_file\_type.md)
   * [Configure Snaplogic File System Writer account settings](trg\_snaplogic\_fsr/trg\_snaplogic\_fsr\_account\_settings.md)
