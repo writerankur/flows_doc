@@ -116,7 +116,7 @@
 * [ServiceNow - Target endpoint](trg\_servicenow/README.md)
   * [Configure your ServiceNow account settings](trg\_servicenow/trg\_servicenow\_account\_settings.md)
   * [Select ServiceNow data delivery type](trg\_servicenow/trg\_servicenow\_data\_delivery\_type.md)
-  * [ServiceNow Overview](<trg\_servicenow/trg\_servicenow\_overview .md>)
+  * [ServiceNow Overview](trg\_servicenow/trg\_servicenow\_overview.md)
 * [SharePoint Online - Target endpoint](trg\_sharepoint/README.md)
   * [Configure your SharePoint Online account settings](<trg\_sharepoint/trg\_sharepoint\_account\_settings .md>)
   * [Configure SharePoint Online Data Delivery Type](trg\_sharepoint/trg\_sharepoint\_file\_type.md)
