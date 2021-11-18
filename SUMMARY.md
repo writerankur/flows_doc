@@ -6,7 +6,7 @@
 ## salesforce
 
 * [Salesforce overview](salesforce/salesforce\_overview.md)
-* [Select your Salesforce account type](salesforce/salesforce\_account\_settings.md)
+* [Configure your Salesforce account settings](salesforce/salesforce\_account\_settings.md)
 * [Select your object type](salesforce/salesforce\_object.md)
 
 ## Box
