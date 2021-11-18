@@ -1,6 +1,6 @@
 # Configure your Google Sheets account
 
-* In **Label, **enter the name of the account. Ensure that you enter a unique account name. If an account with the same name exists, an **Asset Conflict Error** is displayed.
+* In **Label, **enter the name of the account. Ensure that you enter a unique name for the account. If an account with the same name exists, **Asset Conflict Error** is displayed.
 * In **Approval Prompt**:
   * Select _auto _to display the consent prompt for the first time through the OAuth 2.0 authorization sequence.
   * Select _force _to manually acquire a new refresh token.
