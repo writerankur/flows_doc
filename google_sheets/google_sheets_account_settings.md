@@ -6,7 +6,7 @@ Configure the Google Sheets account settings as follows:
 You can get the account information from your IT admin or by logging into your Google Sheets account.
 {% endhint %}
 
-* **Label:  **Enter a unique name to help identify your Google Sheets account in Flows. For example, _Google Sheets\_sales\_account_, if you are part of the sales team. If an account with the same name exists, an **Asset Conflict Error** is displayed.&#x20;
+* **Label:  **Enter a unique name to help identify your Google Sheets account in Flows. For example, _Google Sheets\_sales\_account_, if you are part of the sales team.&#x20;
 * In **Approval Prompt**:
   * Select _auto _to display the consent prompt for the first time through the OAuth 2.0 authorization sequence.
   * Select _force _to manually acquire a new refresh token.

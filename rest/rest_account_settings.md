@@ -1,13 +1,12 @@
-# Enter your REST account information
+# Configure your REST account information
 
 Enter the following details based on the account selected:&#x20;
 
 **REST Basic Auth Account**
 
-*   **Label:** Enter a unique name to help identify your REST basic auth account
+*   **Label:** Enter a unique name to help identify your REST basic auth account in Flows. For example, _rest\_sales\_account_, if you are part of the sales team.&#x20;
 
-    in Flows. For example, _rest\_sales\_account_, if you are part of the sales team.
-* **Username: **Enter a valid username as given in your REST basic auth account.
+    **Username: **Enter a valid username as given in your REST basic auth account.
 * **Password:** Enter the password for the above account as used in your REST basic auth account.
 * Click any one of the following:
   * **Apply** to save your account information in Flows.
@@ -15,7 +14,7 @@ Enter the following details based on the account selected:&#x20;
 
 **REST Dynamic OAuth2 Account**
 
-* **Label:** Enter a unique name to help identify your REST Dynamic OAuth2 account in Flows. For example, _restoauth2\_sales\_account_, if you are part of the sales team.
+* **Label:** Enter a unique name to help identify your REST Dynamic OAuth2 account in Flows.&#x20;
 * **Access Token**: Specify the access token for the application. The retrieval of the access token is done when setting up the account for the endpoint. For example,&#x20;
 * **Header authenticated**: Select to indicate that the endpoint uses bearer header authentication.
 * Click any one of the following:
@@ -24,7 +23,7 @@ Enter the following details based on the account selected:&#x20;
 
 **REST NTLM Account**
 
-*   **Label:** Enter a unique name to help identify your REST NTLM account
+*   **Label:** Enter a unique name to help identify your REST NTLM account.
 
     in Flows. For example, _ntlm\_sales\_account_, if you are part of the sales team.
 * **Username: **Enter a valid username as given in your REST NTLM account.
@@ -36,11 +35,11 @@ Enter the following details based on the account selected:&#x20;
 
 **REST OAuth1 Account**
 
-* **Label:** Enter a unique name to help identify your REST OAuth1 account in Flows. For example, _OAuth1\_sales\_account_, if you are part of the sales team.
+* **Label:** Enter a unique name to help identify your REST OAuth1 account in Flows.&#x20;
 * **Client ID: **The client ID associated with your account. You can create the client ID as advised by your application provider.
 * **Client Secret**: The client secret associated with your account. You can create the client secret as advised by your application provider.
 * **OAuth Token**: _Auto-generated after authorization_. The token that SnapLogic uses to make API requests on behalf of the user associated with the client ID.&#x20;
-* **OAuth Token Secret**: _Auto-generated after authorization_. The refresh token associated with your account. If the refresh token is stored, then the access token can be refreshed automatically before it expires.&#x20;
+* **OAuth Token Secret**: _Auto-generated after authorization_. The refresh token is associated with your account. If the refresh token is stored, then the access token can be refreshed automatically before it expires.&#x20;
 * **Request Token Endpoint**: The endpoint from where the application can retrieve the request token required for the account. For example, [https://api.xero.com/oauth/RequestToken](https://api.xero.com/oauth/RequestToken)&#x20;
 * **Access Token Endpoint**: The URL of the endpoint from where the application can retrieve the access tokens required for the account. For example, [https://api.xero.com/oauth/AccessToken](https://api.xero.com/oauth/AccessToken)&#x20;
 * **Authorize Endpoint**: The endpoint that authorizes the application to access the target database. For example, [_https://api.xero.com/oauth/Authorize_](https://api.xero.com/oauth/Authorize)
@@ -77,13 +76,13 @@ Enter the following details based on the account selected:&#x20;
 
 **REST OAuth2 SSL Account**
 
-*   **Label:** Enter a unique name to help identify your REST OAuth2 SSL account
+*   **Label:** Enter a unique name to help identify your REST OAuth2 SSL account.
 
     in Flows. For example, _rest\_sales\_account_, if you are part of the sales team.
 * **Client ID: **The client ID associated with your account. You can create the client ID as advised by your application provider. For example, _88a731111-07k1-4714-xz5a-de111aaa9a5e_
 * **Client Secret**: The client secret associated with your account. You can create the client secret as advised by your application provider.
 * **Access token**:  _Auto-generated after authorization._ The token that SnapLogic uses to make API requests on behalf of the user associated with the client ID.
-* **Refresh token**:  _Auto-generated after authorization_. The refresh token associated with your account. If the refresh token is stored, then the access token can be refreshed automatically before it expires.
+* **Refresh token**:  _Auto-generated after authorization_. The refresh token is associated with your account. If the refresh token is stored, then the access token can be refreshed automatically before it expires.
 * **Access token expiration**: _Auto-generated after authorization_. The access token expiration value, in seconds.
 * **Header authenticated**: Select this checkbox to indicate that the endpoint uses bearer header authentication.
 * **OAuth2 Endpoint**: Enter the URL of the endpoint that authorizes the application.&#x20;
@@ -109,7 +108,7 @@ Enter the following details based on the account selected:&#x20;
 
 **REST SSL Account**
 
-*   **Label:** Enter a unique name to help identify your REST SSL account
+*   **Label:** Enter a unique name to help identify your REST SSL account.
 
     in Flows. For example, _SSL\_sales\_account_, if you are part of the sales team.
 * **Username: **Enter a valid username as given in your REST basic SSL account.
@@ -121,9 +120,3 @@ Enter the following details based on the account selected:&#x20;
 * Click any one of the following:
   * **Apply** to save your account information in Flows.
   * **Cancel** to return to the previous screen.
-
-
-
-
-
-\

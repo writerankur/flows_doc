@@ -25,7 +25,7 @@
 
 * [REST overview](rest/rest\_overview.md)
 * [Select your REST account type](rest/rest\_select\_account.md)
-* [Enter your REST account information](rest/rest\_account\_settings.md)
+* [Configure your REST account information](rest/rest\_account\_settings.md)
 * [Enter the REST Service URL](rest/rest\_service\_url.md)
 
 ## Marketo
