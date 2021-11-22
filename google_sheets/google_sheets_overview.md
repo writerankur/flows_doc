@@ -7,3 +7,5 @@ The Google Sheets API provides you the ability to read and modify data in Google
 * Browse for Google spreadsheets
 * Read a worksheet within a Google spreadsheet
 
+To begin your Google Sheets Flows, either select a pre-configured Google Sheets account from the dropdown or click Add Account to configure your existing Google Sheets account.
+

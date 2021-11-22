@@ -10,4 +10,4 @@ Flows enables you to connect your Box account to:
 * Create users and groups.
 * Perform move, copy and delete operations.
 
-Select a pre-configured Box account from the dropdown or click **Add Account** to configure your existing Box account.
+To begin your Flows, either select a pre-configured Box account from the dropdown or click **Add Account** to configure your existing Box account.
