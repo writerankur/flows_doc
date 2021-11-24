@@ -63,7 +63,7 @@
 
 * [Sharepoint overview](sharepoint/sharepoint\_overview.md)
 * [Select your SharePoint data source type](sharepoint/sharepoint\_file\_type.md)
-* [Configure your SharePoint Online account settings](sharepoint/trg\_sharepoint\_account\_settings.md)
+* [Configure your SharePoint Online account settings](sharepoint/sharepoint\_account\_settings.md)
 
 ## ServiceNow
 
