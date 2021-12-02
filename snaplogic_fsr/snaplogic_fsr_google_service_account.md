@@ -9,7 +9,7 @@ Enter the following details according to the account selected:
 * **JSON Key**: Enter the relative path of the JSON key in the SLDB. You can upload the JSON file to the SLDB by clicking ![](https://docs-snaplogic.atlassian.net/wiki/download/attachments/836861961/Browse.PNG?version=1\&modificationDate=1563542667717\&cacheVersion=1\&api=v2) → **Upload**.
 * Click any one of the following:
   * **Apply** to save your account information in Flows.
-  * **Validate **to verify if your account information is valid by connecting Flows with your Salesforce.com account.
+  * **Validate** to verify if your account information is valid by connecting Flows with your Salesforce.com account.
   * **Cancel** to return to the previous screen.
 
 ****
