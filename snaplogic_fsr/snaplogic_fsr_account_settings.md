@@ -39,7 +39,7 @@ Enter the following details based on the account selected:
 * **Password:** Enter the password for the above account as used in your SFSR basic auth account.
 * Click any one of the following:
   * **Apply** to save your account information in Flows.
-  * **Validate **to verify if your account information is valid by connecting Flows with your SnapLogic File System Reader account.
+  * **Validate** to verify if your account information is valid by connecting Flows with your SnapLogic File System Reader account.
   * **Cancel** to return to the previous screen.
 
 **Google Service Account**
