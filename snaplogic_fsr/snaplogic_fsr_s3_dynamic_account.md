@@ -5,7 +5,7 @@ Enter the following details according to the account selected:
 *   **Label:** Enter a unique name to help identify your REST basic auth account
 
     in Flows. For example, _rest_sales_account_, if you are part of the sales team.
-* **Access-key ID: **Unique access key ID part of S3 authentication.
+* **Access-key ID:** Unique access key ID part of S3 authentication.
 * **Secret Key**: Secret key part of AWS authentication
 * **Security token**: Enter the security token part of S3 Security Token Service (STS) credentials
 * **Server-side encryption**: Select this checkbox if you want the S3 file to write and encrypt using the 256-bit Advanced Encryption Standard AAES256.
