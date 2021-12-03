@@ -15,7 +15,7 @@
 * [Configure your Box account settings](box/box\_account.md)
 * [Select your Box data collection type](box/box\_file\_type.md)
 
-## Google Sheets <a href="google_sheets" id="google_sheets"></a>
+## Google Sheets <a href="#google_sheets" id="google_sheets"></a>
 
 * [Google Sheets overview](google\_sheets/google\_sheets\_overview.md)
 * [Configure your Google Sheets account](google\_sheets/google\_sheets\_account\_settings.md)
@@ -35,15 +35,15 @@
 * [Configure your Marketo account settings](marketo/marketo\_account\_settings.md)
 * [Select your Marketo data collection type](marketo/marketo\_file\_type.md)
 
-## Salesforce Event Listener <a href="salesforce_event_listener" id="salesforce_event_listener"></a>
+## Salesforce Event Listener <a href="#salesforce_event_listener" id="salesforce_event_listener"></a>
 
 * [Salesforce Event Listener overview](salesforce\_event\_listener/salesforce\_event\_listener\_overview.md)
 
-## CSV Generator <a href="csv_generator" id="csv_generator"></a>
+## CSV Generator <a href="#csv_generator" id="csv_generator"></a>
 
 * [CSV Generator overview](csv\_generator/csv\_generator\_overview.md)
 
-## SnapLogic File System Reader <a href="snaplogic_fsr" id="snaplogic_fsr"></a>
+## SnapLogic File System Reader <a href="#snaplogic_fsr" id="snaplogic_fsr"></a>
 
 * [SnapLogic File System Reader overview](snaplogic\_fsr/snaplogic\_fsr\_overview.md)
 * [Configure Azure Data Lake Account](snaplogic\_fsr/snaplogic\_fsr\_azure\_settings.md)
@@ -59,7 +59,7 @@
 * [Select your SnapLogic File System Reader account](snaplogic\_fsr/snaplogic\_fsr\_account\_type.md)
 * [Configure Snaplogic File System Writer account settings](snaplogic\_fsr/snaplogic\_fsr\_account\_settings.md)
 
-## Sharepoint Online <a href="sharepoint" id="sharepoint"></a>
+## Sharepoint Online <a href="#sharepoint" id="sharepoint"></a>
 
 * [Sharepoint overview](sharepoint/sharepoint\_overview.md)
 * [Select your SharePoint data source type](sharepoint/sharepoint\_file\_type.md)
@@ -118,7 +118,7 @@
   * [Select ServiceNow data delivery type](trg\_servicenow/trg\_servicenow\_data\_delivery\_type.md)
   * [ServiceNow Overview](trg\_servicenow/trg\_servicenow\_overview.md)
 * [SharePoint Online - Target endpoint](trg\_sharepoint/README.md)
-  * [Configure your SharePoint Online account settings](<trg\_sharepoint/trg\_sharepoint\_account\_settings .md>)
+  * [Configure your SharePoint Online account settings](trg\_sharepoint/configure-your-sharepoint-online-account-settings.md)
   * [Configure SharePoint Online Data Delivery Type](trg\_sharepoint/trg\_sharepoint\_file\_type.md)
   * [SharePoint Online overview](trg\_sharepoint/trg\_sharepoint\_overview.md)
 * [Write to Pipeline - Target endpoint](trg\_write\_to\_pipeline/README.md)
@@ -131,9 +131,9 @@
   * [Microsoft Dynamics 365 for Sales Overview](trg\_microsoft\_dynamics/trg\_microsoft\_dynamics\_overview.md)
   * [Configure your Microsoft Dynamics 365 for Sales account settings](trg\_microsoft\_dynamics/trg\_microsoft\_dynamics\_account\_settings.md)
   * [Enter Microsoft Dynamics 365 for Sales information](trg\_microsoft\_dynamics/trg\_microsoft\_dynamics\_object\_type.md)
-* [Read from a Pipeline - Source endpoint](trg\_read\_to\_pipeline/README.md)
-  * [Read from a Pipeline overview](trg\_read\_to\_pipeline/trg\_read\_to\_pipeline\_overview.md)
-* [Microsoft Dynamics 365 for Sales - Source endpoint](trg\_microsoft\_dynamics-1/README.md)
-  * [Microsoft Dynamics 365 for Sales overview](trg\_microsoft\_dynamics-1/trg\_microsoft\_dynamics\_overview.md)
-  * [Microsoft Dynamics 365 for Sales account settings](trg\_microsoft\_dynamics-1/trg\_microsoft\_dynamics\_account\_settings.md)
-  * [Select your Microsoft Dynamics 365 for Sales object type](trg\_microsoft\_dynamics-1/trg\_microsoft\_dynamics\_account\_settings-1.md)
+* [Read from a Pipeline - Source endpoint](read\_to\_pipeline/README.md)
+  * [Read from a Pipeline overview](read\_to\_pipeline/read\_to\_pipeline\_overview.md)
+* [Microsoft Dynamics 365 for Sales - Source endpoint](microsoft\_dynamics/README.md)
+  * [Microsoft Dynamics 365 for Sales overview](microsoft\_dynamics/microsoft\_dynamics\_overview.md)
+  * [Microsoft Dynamics 365 for Sales account settings](microsoft\_dynamics/microsoft\_dynamics\_account\_settings.md)
+  * [Select your Microsoft Dynamics 365 for Sales object type](microsoft\_dynamics/microsoft\_dynamics\_object\_type.md)

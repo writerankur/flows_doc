@@ -2,7 +2,7 @@
 
 The CSV Generator allows you to create CSV documents within Flows. The CSV can be exported to SnapLogic's file system using the export action.
 
-Click **Edit CSV** to launch the CSV Editor. Edit the CSV document and click **Ok **to save.
+Click **Edit CSV** to launch the CSV Editor. Edit the CSV document and click **Ok** to save.
 
 **Advanced Settings:**
 

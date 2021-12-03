@@ -33,6 +33,6 @@ Configure your account with the following details:
      * Authentication parameter value: Provide the value for the parameter, typically one of the Bot scopes.
    * Auto-refresh token: You need not select this checkbox as the bot token never expires.
 2. Click any one of the following:
-   * **Apply **to save your account information in Flows.
-   * **Save **& **Validate** to verify if your account information is valid by connecting Flows with your Salesforce.com account.
+   * **Apply** to save your account information in Flows.
+   * **Save** & **Validate** to verify if your account information is valid by connecting Flows with your Salesforce.com account.
    * **Cancel** to return to the previous screen.

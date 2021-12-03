@@ -16,5 +16,5 @@ Configure the Email Sender account settings as follows:
 * **Read timeout**: The time duration in milliseconds, in the event of a read error, after which the server will not try to read the data.&#x20;
 * **Write timeout**: The time duration in milliseconds, in the event of a write error, after which the server will not try to write the data.&#x20;
 * **Mail properties**
-  * ** Mail property name**: Enter the property name
+  * &#x20;**Mail property name**: Enter the property name
   * **Mail property value**: Enter the property value

@@ -4,11 +4,11 @@ You can also choose any one of the available **Data Collection Types** from wher
 
 **Read Asset:** Select this data source to query the Asset database.
 
-* Specify the **Command **to query the Asset database to retrieve the desired records or choose it from the dropdown.&#x20;
+* Specify the **Command** to query the Asset database to retrieve the desired records or choose it from the dropdown.&#x20;
 
 **Read Lead**: Select this data source to query the Lead database.
 
-* Specify the **Command **to query the Asset database to retrieve the desired records or choose it from the dropdown.&#x20;
+* Specify the **Command** to query the Asset database to retrieve the desired records or choose it from the dropdown.&#x20;
 
 **Extract Lead in Bulk**: Select this data source to fetch a large number of leads from the Lead database.
 
