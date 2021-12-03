@@ -72,23 +72,20 @@
 * [Enter your ServiceNow account information](servicenow/servicenow\_account\_settings.md)
 * [Select your ServiceNow data source type](servicenow/servicenow\_file\_type.md)
 
-## Target Endpoints
-
-* [Google Sheets - Target endpoint](target-endpoints/trg\_google\_sheets/README.md)
-  * [Google Sheets overview](target-endpoints/trg\_google\_sheets/trg\_google\_sheets\_overview.md)
-  * [Enter your Google Spreadsheet information](target-endpoints/trg\_google\_sheets/trg\_google\_sheets\_spreadsheet\_info.md)
-  * [Configure your Google Sheets account](target-endpoints/trg\_google\_sheets/trg\_google\_sheets\_account\_settings.md)
-* [Salesforce - Target endpoint](target-endpoints/trg\_salesforce/README.md)
-  * [Salesforce overview](target-endpoints/trg\_salesforce/trg\_salesforce\_overview.md)
-  * [Configure your Salesforce account settings](target-endpoints/trg\_salesforce/trg\_salesforce\_account\_settings.md)
-  * [Select your object type](target-endpoints/trg\_salesforce/trg\_salesforce\_object.md)
-
 ***
 
-* [Salesforce Upsert - Target endpoint](trg\_salesforce/README.md)
-  * [Salesforce Upsert overview](trg\_salesforce/trg\_salesforce\_upsert\_overview.md)
-  * [Configure Salesforce Upsert account settings](trg\_salesforce/trg\_salesforce\_upsert\_account\_type.md)
-  * [Enter Salesforce Upsert settings](trg\_salesforce/trg\_enter\_salesforce\_upsert\_settings.md)
+* [Google Sheets - Target endpoint](trg\_google\_sheets/README.md)
+  * [Google Sheets overview](trg\_google\_sheets/trg\_google\_sheets\_overview.md)
+  * [Enter your Google Spreadsheet information](trg\_google\_sheets/trg\_google\_sheets\_spreadsheet\_info.md)
+  * [Configure your Google Sheets account](trg\_google\_sheets/trg\_google\_sheets\_account\_settings.md)
+* [Salesforce - Target endpoint](trg\_salesforce/README.md)
+  * [Salesforce overview](trg\_salesforce/trg\_salesforce\_overview.md)
+  * [Configure your Salesforce account settings](trg\_salesforce/trg\_salesforce\_account\_settings.md)
+  * [Select your object type](trg\_salesforce/trg\_salesforce\_object.md)
+* [Salesforce Upsert - Target endpoint](trg\_salesforce-1/README.md)
+  * [Salesforce Upsert overview](trg\_salesforce-1/trg\_salesforce\_upsert\_overview.md)
+  * [Configure Salesforce Upsert account settings](trg\_salesforce-1/trg\_salesforce\_upsert\_account\_type.md)
+  * [Enter Salesforce Upsert settings](trg\_salesforce-1/trg\_enter\_salesforce\_upsert\_settings.md)
 * [Slack - Target endpoint](trg\_slack/README.md)
   * [Slack overview](trg\_slack/trg\_slack\_overview.md)
   * [Configure your Slack account settings](trg\_slack/trg\_slack\_account\_settings.md)
