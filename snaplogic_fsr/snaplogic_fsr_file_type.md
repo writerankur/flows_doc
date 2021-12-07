@@ -1,6 +1,14 @@
-# Select your data collection type
+# SnapLogic File System Reader overview
 
-Select the **Data Collection Type** from where your data will be sourced to configure this Flow. 
+The SnapLogic File System Reader (SFSR) enables you to read any type of data from various source file types such as SLDB, HTTP, S3, SFTP, and HDFS. This endpoint produces a binary data stream at the output.
+
+Select the **Data Collection Type** from where your data will be sourced to configure this Flow.
+
+To begin your SFSR Flows, either select a preconfigured account from the dropdown or click **Add Account** to configure your existing account.
+
+## Select your data collection type
+
+Select the **Data Collection Type** from where your data will be sourced to configure this Flow.&#x20;
 
 You can also choose any one of the available data collection types to start your Flow and provide the following information:
 
@@ -21,4 +29,3 @@ You can also choose any one of the available data collection types to start your
 **Read XML File**
 
 * **File**: Enter URL for a regular file. It should start with a file protocol.
-
