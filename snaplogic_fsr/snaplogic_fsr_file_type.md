@@ -6,8 +6,6 @@ Select the **Data Collection Type** from where your data will be sourced to conf
 
 To begin your SFSR Flows, either select a preconfigured account from the dropdown or click **Add Account** to configure your existing account.
 
-##
-
 ## Select your data collection type
 
 Select the **Data Collection Type** from where your data will be sourced to configure this Flow.&#x20;
