@@ -4,7 +4,13 @@ The SnapLogic File System Reader (SFSR) enables you to read any type of data fro
 
 Select the **Data Collection Type** from where your data will be sourced to configure this Flow.
 
-To begin your SFSR Flows, either select a preconfigured account from the dropdown or click **Add Account** to configure your existing account.
+
+
+## Add Account
+
+You can select a preconfigured account from the dropdown or click **Add Account** to configure your existing account. This is not required to configure this Flow.
+
+
 
 ## Select your data collection type
 
