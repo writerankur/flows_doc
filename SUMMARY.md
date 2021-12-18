@@ -76,7 +76,7 @@
 
 * [Jira overview](jira/jira\_overview.md)
 * [Enter your Jira account information](jira/jira\_account\_settings.md)
-* [Select your Jira data source](jira/jira\_file\_type.md)
+* [Select your Jira data source type](jira/jira\_file\_type.md)
 
 ***
 
