@@ -1,6 +1,6 @@
 # Select your Microsoft Dynamics 365 for Sales object type
 
-You can choose any one of the available **Object Types** to configure this Flow.
+You can choose any of the available **Object Types** to configure this Flow.
 
 **Find Account:** Select this object type to look for an account.&#x20;
 
