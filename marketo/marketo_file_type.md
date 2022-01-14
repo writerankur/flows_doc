@@ -15,10 +15,10 @@ You can choose any of the available **Data Collection Types** to indicate where 
 * In **Start date**, select when to start extracting data.
 * In **End date**, select when to stop extracting the data.
 
-**Get Lead by List ID:** Select this option to get leads from a specific List.
+**Get Lead by Name:** Select this option to get leads from a specific List.
 
-* Specify the **List ID** to get leads from or choose from the dropdown.
+* Specify the **List name** to get leads from or choose from the dropdown.
 
-**Get Campaign by ID:** Select this option to get the campaign with the specified ID.
+**Get Campaign by Name:** Select this option to get the campaign with the specified ID.
 
-* Specify the **ID** of the campaign you want or choose from the dropdown.
+* Specify the **name** of the campaign you want **** or choose from the dropdown.
