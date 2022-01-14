@@ -14,7 +14,7 @@ You can choose any of the available **Object Types** to configure this Flow.
 * **Update Opportunity**: Select this object type to update an Opportunity.
 * **Update another object**: Select this to update another object type.
   * In **Object type**, enter or select the object type from the dropdown.&#x20;
-* **Delete Account**: **** Select this object type to delete an account.&#x20;
+* **Delete Account**: Select this object type to delete an account.&#x20;
 * **Delete Lead**: Select this object type to delete a Lead.
 * **Delete Contact**: Select this object type to delete a contact.
 * **Delete Opportunity**: Select this object type to delete an opportunity.
