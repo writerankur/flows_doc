@@ -2,7 +2,7 @@
 
 You can choose any of the available **Object Types** to configure this Flow.
 
-* **Add Account**: **** Select this object type to add an Account.
+* **Add Account**: Select this object type to add an Account.
 * **Add Lead**: Select this object type to add a Lead.
 * **Add Contact**: Select this object type to add a Contact.
 * **Add Opportunity**: Select this object type to add an Opportunity.
