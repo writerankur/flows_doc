@@ -72,6 +72,12 @@
 * [Enter your ServiceNow account information](servicenow/servicenow\_account\_settings.md)
 * [Select your ServiceNow data source type](servicenow/servicenow\_file\_type.md)
 
+## HubSpot
+
+* [HubSpot overview](hubspot/hubspot-overview.md)
+* [Enter your HubSpot account information](hubspot/enter-your-hubspot-account-information.md)
+* [Select your object type](hubspot/select-your-object-type.md)
+
 ## Jira
 
 * [Jira overview](jira/jira\_overview.md)
@@ -140,3 +146,7 @@
   * [Microsoft Dynamics 365 for Sales overview](microsoft\_dynamics/microsoft\_dynamics\_overview.md)
   * [Microsoft Dynamics 365 for Sales account settings](microsoft\_dynamics/microsoft\_dynamics\_account\_settings.md)
   * [Select your Microsoft Dynamics 365 for Sales object type](microsoft\_dynamics/microsoft\_dynamics\_object\_type.md)
+* [HubSpot - Target endpoint](hubspot-target-endpoint/README.md)
+  * [HubSpot overview](hubspot-target-endpoint/hubspot-overview.md)
+  * [Enter your HubSpot account information](hubspot-target-endpoint/enter-your-hubspot-account-information.md)
+  * [Select your data delivery type](hubspot-target-endpoint/select-your-data-delivery-type.md)
