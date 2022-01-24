@@ -20,6 +20,4 @@ You can select only a single object type per integration.&#x20;
 
 
 
-\
-
 
