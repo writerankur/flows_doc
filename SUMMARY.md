@@ -74,9 +74,9 @@
 
 ## HubSpot
 
-* [HubSpot overview](hubspot/hubspot-overview.md)
-* [Enter your HubSpot account information](hubspot/enter-your-hubspot-account-information.md)
-* [Select your object type](hubspot/select-your-object-type.md)
+* [HubSpot overview](hubspot/hubspot\_overview.md)
+* [Enter your HubSpot account information](hubspot/hubspot\_account\_settings.md)
+* [Select your object type](hubspot/hubspot\_file\_type.md)
 
 ## Jira
 
@@ -146,7 +146,7 @@
   * [Microsoft Dynamics 365 for Sales overview](microsoft\_dynamics/microsoft\_dynamics\_overview.md)
   * [Microsoft Dynamics 365 for Sales account settings](microsoft\_dynamics/microsoft\_dynamics\_account\_settings.md)
   * [Select your Microsoft Dynamics 365 for Sales object type](microsoft\_dynamics/microsoft\_dynamics\_object\_type.md)
-* [HubSpot - Target endpoint](hubspot-target-endpoint/README.md)
-  * [HubSpot overview](hubspot-target-endpoint/hubspot-overview.md)
-  * [Enter your HubSpot account information](hubspot-target-endpoint/enter-your-hubspot-account-information.md)
-  * [Select your data delivery type](hubspot-target-endpoint/select-your-data-delivery-type.md)
+* [HubSpot - Target endpoint](trg\_hubspot/README.md)
+  * [HubSpot overview](trg\_hubspot/trg\_hubspot\_overview.md)
+  * [Enter your HubSpot account information](trg\_hubspot/trg\_hubspot\_account\_settings.md)
+  * [Select your data delivery type](trg\_hubspot/trg\_hubspot\_file\_type.md)
