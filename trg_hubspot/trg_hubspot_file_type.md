@@ -2,12 +2,6 @@
 
 Select the HubSpot **Object type** from where your data will be sourced for this Flows configuration.
 
-**Find Contacts:** Select this object type to find contacts that you transact with.
-
-**Find Companies:** Select this object type to find companies that use your product.
-
-**Find Deals:** Select this object type to find the list of potential deals or deals in progress.
-
 * **Create Company**: Select this object type to add a Company.&#x20;
 * **Create Deal**: Select this object type to add a Deal.
 * **Create Contact**: Select this object type to add a Contact.
