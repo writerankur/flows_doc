@@ -149,4 +149,4 @@
 * [HubSpot - Target endpoint](trg\_hubspot/README.md)
   * [HubSpot overview](trg\_hubspot/trg\_hubspot\_overview.md)
   * [Enter your HubSpot account information](trg\_hubspot/trg\_hubspot\_account\_settings.md)
-  * [Select your data delivery type](trg\_hubspot/trg\_hubspot\_file\_type.md)
+  * [Select your object type](trg\_hubspot/trg\_hubspot\_file\_type.md)
