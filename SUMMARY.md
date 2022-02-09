@@ -6,6 +6,7 @@
 ## salesforce
 
 * [Salesforce overview](salesforce/salesforce\_overview.md)
+* [Select how to handle incoming data](salesforce/select-how-to-handle-incoming-data.md)
 * [Configure your Salesforce account settings](salesforce/salesforce\_account\_settings.md)
 * [Select your object type](salesforce/salesforce\_object.md)
 
