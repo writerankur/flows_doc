@@ -6,8 +6,8 @@ To create a Flow:
 
 1. Select a source endpoint. Configure or select your account for that endpoint.
 2. If applicable, select and configure an object or data collection type.
-3. (Optional) Filter and map your uploaded data through the data wrangler.
+3. (Optional) Filter and map your uploaded data through the Data Wrangler.
 4. Select a target endpoint. Configure or select your account for that endpoint.
-5. If applicable, select and configure an object or data collection type.
+5. If applicable, select and configure an object or data collection type for your target endpoint.
 6. (Optional) Set up notifications for your Flow.
-7. Schedule and complete your Flow.
+7. Schedule and run your Flow.
