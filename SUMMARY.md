@@ -7,7 +7,7 @@
 
 * [Salesforce overview](salesforce/salesforce\_overview.md)
 * [Select how to handle incoming data](salesforce/select-how-to-handle-incoming-data.md)
-* [Page 2](salesforce/page-2.md)
+* [Configure your external event](salesforce/configure-your-external-event.md)
 * [Configure your Salesforce account settings](salesforce/salesforce\_account\_settings.md)
 * [Select your object type](salesforce/salesforce\_object.md)
 
@@ -78,7 +78,7 @@
 
 * [HubSpot overview](hubspot/hubspot\_overview.md)
 * [Select how to handle incoming data](hubspot/select-how-to-handle-incoming-data.md)
-* [Page 1](hubspot/page-1.md)
+* [Configure your external event](hubspot/configure-your-external-event.md)
 * [Enter your HubSpot account information](hubspot/hubspot\_account\_settings.md)
 * [Select your object type](hubspot/hubspot\_file\_type.md)
 
