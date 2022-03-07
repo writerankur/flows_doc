@@ -154,3 +154,7 @@
   * [HubSpot overview](trg\_hubspot/trg\_hubspot\_overview.md)
   * [Enter your HubSpot account information](trg\_hubspot/trg\_hubspot\_account\_settings.md)
   * [Select your object type](trg\_hubspot/trg\_hubspot\_file\_type.md)
+* [Jira - Target endpoint](jira\_trg/README.md)
+  * [Jira overview](jira\_trg/jira\_trg\_overview.md)
+  * [Enter your Jira account information](jira\_trg/jira\_trg\_account\_settings.md)
+  * [Select your Jira data source type](jira\_trg/jira\_trg\_file\_type.md)

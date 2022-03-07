@@ -9,3 +9,7 @@ To select the Pipelines from IIP:
 3. In Flows, select **Read from a Pipeline**. The list of Pipelines from the selected folder is displayed with the appropriate title and description. These details are read from the Pipeline **Purpose** and **Notes** fields respectively. If these fields are not populated, then use the **Label** of the Pipeline.
 
 **Note**: When adding Read from a Pipeline to any source endpoint, the respective IIP Pipeline should have open output. Else, the Pipeline is disabled and cannot be selected in Flows.
+
+In **Batch Size**, specify the number of records processed in each request.
+
+Use the **Filter Data** option to filter the incoming data uploaded by the source endpoint. Once a filter is applied, you can view it in the **Data Wrangler** and further edit the filter condition.
