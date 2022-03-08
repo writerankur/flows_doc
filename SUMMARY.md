@@ -139,6 +139,7 @@
 * [MS Teams - Target endpoint](trg\_ms\_teams/README.md)
   * [MS Teams Overview](trg\_ms\_teams/trg\_ms\_teams\_overview.md)
   * [Configure your MS Teams account settings](trg\_ms\_teams/trg\_ms\_teams\_account\_settings.md)
+  * [sample](trg\_ms\_teams/sample.md)
   * [Enter your MS Teams information](trg\_ms\_teams/trg\_ms\_teams\_message.md)
 * [Microsoft Dynamics 365 for Sales - Target endpoint](trg\_microsoft\_dynamics/README.md)
   * [Microsoft Dynamics 365 for Sales Overview](trg\_microsoft\_dynamics/trg\_microsoft\_dynamics\_overview.md)
