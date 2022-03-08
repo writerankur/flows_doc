@@ -21,4 +21,4 @@ You can choose any of the available **Data Collection Types** to indicate where 
 
 **Get Campaign by Name:** Select this option to get the campaign with the specified ID.
 
-* Specify the **name** of the campaign you want **** or choose from the dropdown.
+* Specify the **name** of the campaign you want or choose from the dropdown.
