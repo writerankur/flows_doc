@@ -9,3 +9,5 @@ Select any one of the following available **Data Collection Types** to write you
 
     Specify the **Command** to query the Asset database to retrieve the desired records.
 * **Upsert Lead in Bulk**: Select this target endpoint to upsert a  large number of leads into the Lead database.
+
+Use the **Map Data** option to apply the mapping between the data of fields uploaded by the source endpoint to the same of the target endpoint.
