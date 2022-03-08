@@ -7,3 +7,4 @@ Enter the following information:
   * **Plain text or HTML text**: Sends one email message per document.&#x20;
   * **HTML table**: Each document provides one row of information for the HTML table.
 
+Use the **Map Data** option to apply the mapping between the data of fields uploaded by the source endpoint to the same of the target endpoint.
