@@ -14,3 +14,5 @@ Advanced Settings:
   * _Validate & Execute._ Performs limited execution of the Snap and generates a data preview during Pipeline validation, then performs full execution of the Snap (unlimited records) during Pipeline runtime.
   * _Execute only._ Performs full execution of the Snap during Pipeline execution without generating preview data.
   * _Disabled._ Disables the Snap and all Snaps downstream from it.
+
+Use the **Map Data** option to apply the mapping between the data of fields uploaded by the source endpoint to the same of the target endpoint.
