@@ -35,3 +35,5 @@ You can also choose any one of the available data collection types to start your
 **Read XML File**
 
 * **File**: Enter URL for a regular file. It should start with a file protocol.
+
+Use the **Filter Data** option to filter the incoming data uploaded by the source endpoint. Once a filter is applied, you can view it in the **Data Wrangler** and further edit the filter condition.
