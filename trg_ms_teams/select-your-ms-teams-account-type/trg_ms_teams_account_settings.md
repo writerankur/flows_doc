@@ -21,10 +21,10 @@ For **Teams OAuth2 User Accounts**, configure your account with the following de
 * **Access token expiration**: The access token expiration value.
 * **OAuth2 Endpoint,** enter the tenant ID in the designated position in the URL.
 * **OAuth2 Token**, enter the tenant ID in the designated position in the URL.
-* **Token endpoint config**: Enable this if the endpoint uses bearer header authentication. Click ![https://docs-snaplogic.atlassian.net/wiki/download/attachments/896369522/Plus.png?version=1\&modificationDate=1579553898874\&cacheVersion=1\&api=v2](<../.gitbook/assets/0 (1)>) on the right of the field to add a row. This field set comprises the following fields:
+* **Token endpoint config**: Enable this if the endpoint uses bearer header authentication. Click ![https://docs-snaplogic.atlassian.net/wiki/download/attachments/896369522/Plus.png?version=1\&modificationDate=1579553898874\&cacheVersion=1\&api=v2](<../../.gitbook/assets/0 (1)>) on the right of the field to add a row. This field set comprises the following fields:
   * Token endpoint parameter
   * Token endpoint parameter value
-* **Auth endpoint config**: Use this field set to assign scopes for the OAuth2 authentication endpoint for the account. It is recommended to define at least one scope entry in this fieldset. Click ![https://docs-snaplogic.atlassian.net/wiki/download/attachments/896369522/Plus.png?version=1\&modificationDate=1579553898874\&cacheVersion=1\&api=v2](../.gitbook/assets/1) on the right of the field to add a row. This field set comprises the following fields:
+* **Auth endpoint config**: Use this field set to assign scopes for the OAuth2 authentication endpoint for the account. It is recommended to define at least one scope entry in this fieldset. Click ![https://docs-snaplogic.atlassian.net/wiki/download/attachments/896369522/Plus.png?version=1\&modificationDate=1579553898874\&cacheVersion=1\&api=v2](../../.gitbook/assets/1) on the right of the field to add a row. This field set comprises the following fields:
   * Authentication parameter
   * Authentication parameter value
 * **Auto-refresh token**: Select this to refresh the access token automatically.
