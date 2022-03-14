@@ -20,5 +20,5 @@ Select the Box **Data Collection Type** from where your data will be sourced to 
 
 * In **File Path**, select the name of the XML file to be read from the Box account from the drop-down list.&#x20;
 
-****
+Use the **Filter Data** option to filter the incoming data uploaded by the source endpoint. Once a filter is applied, you can view it in the **Data Wrangler** and further edit the filter condition.
 

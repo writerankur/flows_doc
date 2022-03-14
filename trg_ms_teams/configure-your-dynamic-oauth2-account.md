@@ -1,4 +1,4 @@
-# Configure your Dynamic OAuth2 Account
+# Configure Dynamic OAuth2 Account
 
 For **Teams Dynamic OAuth2 Accounts**, configure your account with the following details:
 
