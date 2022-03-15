@@ -7,3 +7,5 @@ You can also choose any one of the available data delivery types to end your Flo
   * **Table name**: Enter or select the name of the table in the instance.
   * **Batch Size**: Enter the number of documents you want to process in a single batch
 * For **Update other items** and **Delete other items**, enter or select the name of the table in the instance.
+
+Use the **Map Data** option to apply the mapping between the data of fields uploaded by the source endpoint to the same of the target endpoint.
