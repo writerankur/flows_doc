@@ -22,3 +22,5 @@ You can choose any of the available **Object Types** to configure this Flow.
   * In **Object type**, enter or select the object type from the dropdown.
 
 Use the **Map Data** option to apply the mapping between the data of fields uploaded by the source endpoint to the same of the target endpoint.
+
+Use the **Map Data** option to apply the mapping between the data of fields uploaded by the source endpoint to the same of the target endpoint.
