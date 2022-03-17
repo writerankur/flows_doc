@@ -20,3 +20,5 @@ Select the HubSpot **Object type** from where your data will be sourced for this
 * **Delete Custom Object**: Select this to delete a custom entity.
   * In **Entity**, enter or select the custom object from the dropdown.
   * In **Action**, select the required action from the dropdown.
+
+Use the **Map Data** option to apply the mapping between the data of fields uploaded by the source endpoint to the same of the target endpoint.
