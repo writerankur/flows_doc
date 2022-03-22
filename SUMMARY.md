@@ -73,6 +73,7 @@
 * [Select your ServiceNow account type](servicenow/servicenow\_account\_type.md)
 * [Enter your ServiceNow account information](servicenow/servicenow\_account\_settings.md)
 * [Select your ServiceNow data source type](servicenow/servicenow\_file\_type.md)
+* [Configure your ServiceNow OAuth2 Account](servicenow/configure-your-servicenow-oauth2-account.md)
 
 ## HubSpot
 
@@ -126,6 +127,7 @@
   * [Snaplogic File System Writer overview](trg\_snaplogic\_fsr/trg\_snaplogic\_fsr\_overview.md)
   * [Select Snaplogic File System Writer Data Collection Type](trg\_snaplogic\_fsr/trg\_snaplogic\_fsr\_file\_type.md)
   * [Configure Snaplogic File System Writer account settings](trg\_snaplogic\_fsr/trg\_snaplogic\_fsr\_account\_settings.md)
+  * [Configure Your Azure Data Lake Account](trg\_snaplogic\_fsr/configure-your-azure-data-lake-account.md)
 * [ServiceNow - Target endpoint](trg\_servicenow/README.md)
   * [Configure your ServiceNow account settings](trg\_servicenow/trg\_servicenow\_account\_settings.md)
   * [Select ServiceNow data delivery type](trg\_servicenow/trg\_servicenow\_data\_delivery\_type.md)

@@ -13,6 +13,3 @@ You can choose any of the available **Object Types** to configure this Flow.
 **Find Contact**: Select this object type to look for a contact.
 
 **Find Opportunity:** Select this object type to look for an opportunity.
-
-Use the **Filter Data** option to filter the incoming data uploaded by the source endpoint. Once a filter is applied, you can view it in the **Data Wrangler** and further edit the filter condition.
-
