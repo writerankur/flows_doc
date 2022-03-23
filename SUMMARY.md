@@ -21,7 +21,7 @@
 
 * [Google Sheets overview](google\_sheets/google\_sheets\_overview.md)
 * [Configure your Google Sheets account](google\_sheets/google\_sheets\_account\_settings.md)
-* [Enter your Google Spreadsheet information](google\_sheets/google\_sheets\_spreadsheet\_info.md)
+* [Enter your Google Spreadsheet information](google\_sheets/com-snaplogic-snaps-google-spreadsheet-googlespreadsheetoauth2account.md)
 
 ## REST
 
