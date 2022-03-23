@@ -79,8 +79,9 @@
 
 * [HubSpot overview](hubspot/hubspot\_overview.md)
 * [Select how to handle incoming data](hubspot/hubspot\_src\_incoming\_data.md)
+* [Select your HubSpot account type](hubspot/account\_overview.md)
 * [Configure your external event](hubspot/hubspot\_src\_external\_event.md)
-* [Enter your HubSpot account information](hubspot/hubspot\_account\_settings.md)
+* [Enter your HubSpot account information](hubspot/enter-your-hubspot-account-information.md)
 * [Select your object type](hubspot/hubspot\_file\_type.md)
 
 ## Jira
@@ -160,6 +161,7 @@
   * [Select your Microsoft Dynamics 365 for Sales object type](microsoft\_dynamics/microsoft\_dynamics\_object\_type.md)
 * [HubSpot - Target endpoint](trg\_hubspot/README.md)
   * [HubSpot overview](trg\_hubspot/trg\_hubspot\_overview.md)
+  * [Select your HubSpot account type](trg\_hubspot/account\_overview.md)
   * [Enter your HubSpot account information](trg\_hubspot/com-rojoconsultancy-snaps-hubspot-account-hubspotaccount.md)
   * [Select your object type](trg\_hubspot/trg\_hubspot\_file\_type.md)
 * [Jira - Target endpoint](jira-target/README.md)
