@@ -86,7 +86,8 @@
 ## Jira
 
 * [Jira overview](jira/jira\_overview.md)
-* [Enter your Jira account information](jira/jira\_account\_settings.md)
+* [Configure your Jira anonymous account](jira/com-snaplogic-snaps-jira-jiraanonymousaccount.md)
+* [Configure your Jira basic auth account](jira/com-snaplogic-snaps-jira-jirabasicauthaccount.md)
 * [Select your Jira data source type](jira/jira\_file\_type.md)
 
 ***
@@ -163,7 +164,8 @@
   * [Select your object type](trg\_hubspot/trg\_hubspot\_file\_type.md)
 * [Jira - Target endpoint](jira-target/README.md)
   * [Jira overview](jira-target/jira-overview.md)
-  * [Enter your Jira account information](jira-target/enter-your-jira-account-information.md)
+  * [Configure your Jira anonymous account](jira-target/com-snaplogic-snaps-jira-jiraanonymousaccount.md)
+  * [Configure your Jira basic auth account](jira-target/com-snaplogic-snaps-jira-jirabasicauthaccount.md)
   * [Select your Jira data source type](jira-target/select-your-jira-data-source-type.md)
 * [End Flow](end-flow/README.md)
   * [Complete your Flow](end-flow/complete-your-flow.md)

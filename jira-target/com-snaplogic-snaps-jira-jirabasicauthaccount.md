@@ -1,8 +1,8 @@
-# Enter your Jira account information
+# Configure your Jira basic auth account
 
 Configure your account with the following details:
 
-* **Label:** Enter the name of your account. Make sure to use a unique account name. &#x20;
+* **Label:** Enter the name of your account. Make sure to use a unique account name.
 * Enter your **Username** and **Password.**
 * **JIRA hostname**: Enter the URL for the JIRA REST API service.
 * **Trust all certificates:** Select this checkbox to trust all certificates, such as self-signed certificates.
