@@ -6,9 +6,13 @@
 ## salesforce
 
 * [Salesforce overview](salesforce/salesforce\_overview.md)
+* [Select your Salesforce account type](salesforce/account\_overview.md)
 * [Select how to handle incoming data](salesforce/salesforce\_src\_incoming\_data.md)
 * [Configure your external event](salesforce/salesforce\_src\_external\_event.md)
-* [Configure your Salesforce account settings](salesforce/salesforce\_account\_settings.md)
+* [Configure your Salesforce.com Oauth2 account](salesforce/com-snaplogic-snaps-salesforce-salesforceoauth2account.md)
+* [Configure your Salesforce.com Mutual Authentication account](salesforce/com-snaplogic-snaps-salesforce-salesforcemutualauthaccount.md)
+* [Configure your Salesforce.com dynamic account](salesforce/com-snaplogic-snaps-salesforce-salesforcedynamicaccount.md)
+* [Configure your Salesforce.com account](salesforce/com-snaplogic-snaps-salesforce-salesforceaccount.md)
 * [Select your object type](salesforce/salesforce\_object.md)
 
 ## Box
@@ -100,8 +104,12 @@
   * [Configure your Google Sheets account](trg\_google\_sheets/com-snaplogic-snaps-google-spreadsheet-googlespreadsheetoauth2account.md)
 * [Salesforce - Target endpoint](trg\_salesforce/README.md)
   * [Salesforce overview](trg\_salesforce/trg\_salesforce\_overview.md)
-  * [Configure your Salesforce account settings](trg\_salesforce/trg\_salesforce\_account\_settings.md)
+  * [Configure your Salesforce.com account](trg\_salesforce/com-snaplogic-snaps-salesforce-salesforceaccount.md)
+  * [Configure your Salesforce.com dynamic account](trg\_salesforce/com-snaplogic-snaps-salesforce-salesforcedynamicaccount.md)
+  * [Configure your Salesforce.com Oauth2 account](trg\_salesforce/com-snaplogic-snaps-salesforce-salesforceoauth2account.md)
+  * [Configure your Salesforce.com Mutual Authentication account](trg\_salesforce/com-snaplogic-snaps-salesforce-salesforcemutualauthaccount.md)
   * [Select your object type](trg\_salesforce/trg\_salesforce\_object.md)
+  * [Select your Salesforce account type](trg\_salesforce/account\_overview.md)
 * [Salesforce Upsert - Target endpoint](trg\_salesforce-1/README.md)
   * [Salesforce Upsert overview](trg\_salesforce-1/trg\_salesforce\_upsert\_overview.md)
   * [Configure Salesforce Upsert account settings](trg\_salesforce-1/trg\_salesforce\_upsert\_account\_type.md)
