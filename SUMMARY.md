@@ -32,10 +32,10 @@
 
 ## Marketo
 
-* [Marketo overview](marketo/marketo\_overview.md)
 * [Select your Marketo account type](marketo/marketo\_account\_type.md)
 * [Configure your Marketo account settings](marketo/com-snaplogic-snaps-marketo-marketooauth2account.md)
 * [Select your Marketo data collection type](marketo/marketo\_file\_type.md)
+* [Marketo overview](marketo/marketo\_overview.md)
 
 ## Salesforce Event Listener <a href="#salesforce_event_listener" id="salesforce_event_listener"></a>
 
@@ -110,8 +110,8 @@
 * [Email Sender - Target endpoint](trg\_email\_sender/README.md)
   * [Email Sender overview](trg\_email\_sender/trg\_email\_sender\_overview.md)
   * [Configure Email Sender settings](trg\_email\_sender/trg\_email\_sender\_info.md)
-  * [Configure the Email Sender account settings](trg\_email\_sender/trg\_email\_sender\_account\_settings.md)
-  * [Select your Email Sender Account Type](trg\_email\_sender/select-your-email-sender-account-type.md)
+  * [Configure the Email Sender account settings](trg\_email\_sender/com-snaplogic-snaps-email-smtpaccount.md)
+  * [Select your Email Sender Account Type](trg\_email\_sender/account\_overview.md)
 * [My SQL - Target endpoint](trg\_mysql/README.md)
   * [MySQL overview](trg\_mysql/trg\_mysql\_overview.md)
   * [Configure MySQL account settings](trg\_mysql/trg\_mysql\_account\_settings.md)
