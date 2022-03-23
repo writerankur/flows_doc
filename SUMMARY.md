@@ -80,7 +80,7 @@
 * [HubSpot overview](hubspot/hubspot\_overview.md)
 * [Select how to handle incoming data](hubspot/hubspot\_src\_incoming\_data.md)
 * [Configure your external event](hubspot/hubspot\_src\_external\_event.md)
-* [Enter your HubSpot account information](hubspot/hubspot\_account\_settings.md)
+* [Enter your HubSpot account information](hubspot/com-rojoconsultancy-snaps-hubspot-account-hubspotaccount.md)
 * [Select your object type](hubspot/hubspot\_file\_type.md)
 
 ## Jira
