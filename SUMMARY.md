@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-  * [Welcome to SnapLogic Flows!](master/welcome\_to\_snaplogic\_flows.md)
+  * [Welcome to SnapLogic Flows!](readme/welcome\_to\_snaplogic\_flows.md)
 
 ## salesforce
 
@@ -100,9 +100,9 @@
   * [Configure your Salesforce account settings](trg\_salesforce/trg\_salesforce\_account\_settings.md)
   * [Select your object type](trg\_salesforce/trg\_salesforce\_object.md)
 * [Salesforce Upsert - Target endpoint](trg\_salesforce-1/README.md)
-  * [Salesforce Upsert overview](trg\_salesforce/trg\_salesforce\_upsert\_overview.md)
-  * [Configure Salesforce Upsert account settings](trg\_salesforce/trg\_salesforce\_upsert\_account\_type.md)
-  * [Enter Salesforce Upsert settings](trg\_salesforce/trg\_enter\_salesforce\_upsert\_settings.md)
+  * [Salesforce Upsert overview](trg\_salesforce-1/trg\_salesforce\_upsert\_overview.md)
+  * [Configure Salesforce Upsert account settings](trg\_salesforce-1/trg\_salesforce\_upsert\_account\_type.md)
+  * [Enter Salesforce Upsert settings](trg\_salesforce-1/trg\_enter\_salesforce\_upsert\_settings.md)
 * [Slack - Target endpoint](trg\_slack/README.md)
   * [Slack overview](trg\_slack/trg\_slack\_overview.md)
   * [Configure your Slack account settings](trg\_slack/trg\_slack\_account\_settings.md)
