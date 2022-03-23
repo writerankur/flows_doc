@@ -14,7 +14,7 @@
 ## Box
 
 * [Box overview](box/box\_overview.md)
-* [Configure your Box account settings](box/box\_account.md)
+* [Configure your Box account settings](box/com-snaplogic-snaps-box-boxaccount.md)
 * [Select your Box data collection type](box/box\_file\_type.md)
 
 ## Google Sheets <a href="#google_sheets" id="google_sheets"></a>
@@ -34,7 +34,7 @@
 
 * [Marketo overview](marketo/marketo\_overview.md)
 * [Select your Marketo account type](marketo/marketo\_account\_type.md)
-* [Configure your Marketo account settings](marketo/marketo\_account\_settings.md)
+* [Configure your Marketo account settings](marketo/com-snaplogic-snaps-marketo-marketooauth2account.md)
 * [Select your Marketo data collection type](marketo/marketo\_file\_type.md)
 
 ## Salesforce Event Listener <a href="#salesforce_event_listener" id="salesforce_event_listener"></a>
@@ -122,7 +122,7 @@
   * [Select Marketo data collection type](trg\_marketo/trg\_marketo\_data\_type.md)
 * [Box - Target endpoint](trg\_box/README.md)
   * [Box overview](trg\_box/trg\_box\_overview.md)
-  * [Configure Box account settings](trg\_box/trg\_box\_account\_settings.md)
+  * [Configure Box account settings](trg\_box/com-snaplogic-snaps-box-boxaccount.md)
   * [Select Box data collection type](trg\_box/trg\_box\_file\_type.md)
 * [Snaplogic File System Writer - Target endpoint](trg\_snaplogic\_fsr/README.md)
   * [Snaplogic File System Writer overview](trg\_snaplogic\_fsr/trg\_snaplogic\_fsr\_overview.md)
