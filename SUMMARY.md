@@ -58,7 +58,7 @@
 * [Configure SSH Auth account](snaplogic\_fsr/snaplogic\_fsr\_ssh\_auth\_account.md)
 * [Configure Two-Factor Auth account](snaplogic\_fsr/snaplogic\_fsr\_two\_factor\_auth\_account.md)
 * [SnapLogic File System Reader overview](snaplogic\_fsr/snaplogic\_fsr\_file\_type.md)
-* [Select your SnapLogic File System Reader account](snaplogic\_fsr/snaplogic\_fsr\_account\_type.md)
+* [Select your SnapLogic File System Reader account](snaplogic\_fsr/account\_overview.md)
 * [Configure Snaplogic File System Writer account settings](snaplogic\_fsr/snaplogic\_fsr\_account\_settings.md)
 
 ## Sharepoint Online <a href="#sharepoint" id="sharepoint"></a>
@@ -128,7 +128,7 @@
   * [Snaplogic File System Writer overview](trg\_snaplogic\_fsr/trg\_snaplogic\_fsr\_overview.md)
   * [Select Snaplogic File System Writer Data Collection Type](trg\_snaplogic\_fsr/trg\_snaplogic\_fsr\_file\_type.md)
   * [Configure Snaplogic File System Writer account settings](trg\_snaplogic\_fsr/trg\_snaplogic\_fsr\_account\_settings.md)
-  * [Configure your AWS S3 Account](trg\_snaplogic\_fsr/configure-your-aws-s3-account.md)
+  * [Configure your AWS S3 Account](trg\_snaplogic\_fsr/com-snaplogic-snaps-binary-binarys3account.md)
   * [Select your SnapLogic File System Writer Account](trg\_snaplogic\_fsr/select-your-snaplogic-file-system-writer-account.md)
   * [Configure Your Azure Data Lake Account](trg\_snaplogic\_fsr/configure-your-azure-data-lake-account.md)
 * [ServiceNow - Target endpoint](trg\_servicenow/README.md)
