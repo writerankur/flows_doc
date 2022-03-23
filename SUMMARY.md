@@ -70,10 +70,10 @@
 ## ServiceNow
 
 * [ServiceNow overview](servicenow/servicenow\_overview.md)
-* [Select your ServiceNow account type](servicenow/servicenow\_account\_type.md)
-* [Enter your ServiceNow account information](servicenow/servicenow\_account\_settings.md)
+* [Select your ServiceNow account type](servicenow/account\_overview.md)
+* [Enter your ServiceNow account information](servicenow/com-snaplogic-snaps-servicenow-servicenowaccount.md)
 * [Select your ServiceNow data source type](servicenow/servicenow\_file\_type.md)
-* [Configure your ServiceNow OAuth2 Account](servicenow/configure-your-servicenow-oauth2-account.md)
+* [Configure your ServiceNow OAuth2 Account](servicenow/com-snaplogic-snaps-servicenow-servicenowoauth2account.md)
 
 ## HubSpot
 
@@ -136,9 +136,11 @@
   * [Select your SnapLogic File System Writer Account](trg\_snaplogic\_fsr/select-your-snaplogic-file-system-writer-account.md)
   * [Configure Your Azure Data Lake Account](trg\_snaplogic\_fsr/configure-your-azure-data-lake-account.md)
 * [ServiceNow - Target endpoint](trg\_servicenow/README.md)
-  * [Configure your ServiceNow account settings](trg\_servicenow/trg\_servicenow\_account\_settings.md)
+  * [Configure your ServiceNow account settings](trg\_servicenow/com-snaplogic-snaps-servicenow-servicenowaccount.md)
   * [Select ServiceNow data delivery type](trg\_servicenow/trg\_servicenow\_data\_delivery\_type.md)
   * [ServiceNow Overview](trg\_servicenow/trg\_servicenow\_overview.md)
+  * [Configure your ServiceNow OAuth2 Account](trg\_servicenow/com-snaplogic-snaps-servicenow-servicenowoauth2account.md)
+  * [Select your ServiceNow account type](trg\_servicenow/account\_overview.md)
 * [SharePoint Online - Target endpoint](trg\_sharepoint/README.md)
   * [Configure your SharePoint Online account settings](trg\_sharepoint/configure-your-sharepoint-online-account-settings.md)
   * [Configure SharePoint Online Data Delivery Type](trg\_sharepoint/trg\_sharepoint\_file\_type.md)
