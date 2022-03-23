@@ -2,7 +2,7 @@
 
 Configure your account with the following details:
 
-* **Label:** Specify a unique name for the account.
+* **Label:** Specify a unique name for your account.
 * **Client ID**: Enter the client ID associated with your HubSpot account.
 * **Client Secret:** Enter the client secret for the client ID specified above.
 * **Access token**: _Auto-generated after authorization._ The access token for your HubSpot account.
