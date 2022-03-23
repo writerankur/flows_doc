@@ -120,7 +120,7 @@
   * [Enter the MySQL schema information](trg\_mysql/trg\_mysql\_settings.md)
 * [Marketo - Target endpoint](trg\_marketo/README.md)
   * [Marketo overview](trg\_marketo/trg\_marketo\_overview.md)
-  * [Copy of Select your Marketo account type](trg\_marketo/account\_overview.md)
+  * [Select your Marketo account type](trg\_marketo/account\_overview.md)
   * [Configure your Marketo account settings](trg\_marketo/com-snaplogic-snaps-marketo-marketooauth2account.md)
   * [Select Marketo data collection type](trg\_marketo/trg\_marketo\_data\_type.md)
 * [Box - Target endpoint](trg\_box/README.md)
