@@ -143,6 +143,7 @@
   * [Configure your AWS S3 Account](trg\_snaplogic\_fsr/com-snaplogic-snaps-binary-binarys3account.md)
   * [Select your SnapLogic File System Writer Account](trg\_snaplogic\_fsr/select-your-snaplogic-file-system-writer-account.md)
   * [Configure Your Azure Data Lake Account](trg\_snaplogic\_fsr/configure-your-azure-data-lake-account.md)
+  * [Configure your Two-Factor Auth Account](trg\_snaplogic\_fsr/configure-your-two-factor-auth-account.md)
 * [ServiceNow - Target endpoint](trg\_servicenow/README.md)
   * [Configure your ServiceNow account settings](trg\_servicenow/com-snaplogic-snaps-servicenow-servicenowaccount.md)
   * [Select ServiceNow data delivery type](trg\_servicenow/trg\_servicenow\_data\_delivery\_type.md)
