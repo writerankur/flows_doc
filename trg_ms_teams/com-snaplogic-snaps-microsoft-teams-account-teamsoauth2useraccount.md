@@ -5,9 +5,9 @@ For **Teams Dynamic OAuth2 Accounts**, configure your account with the following
 * **Label:** Enter a unique name to help identify your MS Teams account in Flows. For example, _MS\_prod\_account_, if you are part of the production team.
 * **Access Token**: Specify the access token for the application.
 * **Access Token Type:** Select your access token type.
-  * On behalf of user (authorization\_code grant type)&#x20;
+  * On behalf of user (authorization\_code grant type)
   * On behalf of application (client\_credentials grant type)
-* Click any one of the following:&#x20;
+* Click any one of the following:
   * **Apply** to save your account information in Flows.
   * **Cancel** to return to the previous screen.
 
@@ -21,10 +21,10 @@ For **Teams OAuth2 User Accounts**, configure your account with the following de
 * **Access token expiration**: The access token expiration value.
 * **OAuth2 Endpoint,** enter the tenant ID in the designated position in the URL.
 * **OAuth2 Token**, enter the tenant ID in the designated position in the URL.
-* **Token endpoint config**: Enable this if the endpoint uses bearer header authentication. Click ![https://docs-snaplogic.atlassian.net/wiki/download/attachments/896369522/Plus.png?version=1\&modificationDate=1579553898874\&cacheVersion=1\&api=v2](../.gitbook/assets/0) on the right of the field to add a row. This field set comprises the following fields:
+* **Token endpoint config**: Enable this if the endpoint uses bearer header authentication. Click ![https://docs-snaplogic.atlassian.net/wiki/download/attachments/896369522/Plus.png?version=1\&modificationDate=1579553898874\&cacheVersion=1\&api=v2](<../.gitbook/assets/0 (2)>) on the right of the field to add a row. This field set comprises the following fields:
   * Token endpoint parameter
   * Token endpoint parameter value
-* **Auth endpoint config**: Use this field set to assign scopes for the OAuth2 authentication endpoint for the account. It is recommended to define at least one scope entry in this fieldset. Click ![https://docs-snaplogic.atlassian.net/wiki/download/attachments/896369522/Plus.png?version=1\&modificationDate=1579553898874\&cacheVersion=1\&api=v2](<../.gitbook/assets/0 (2)>) on the right of the field to add a row. This field set comprises the following fields:
+* **Auth endpoint config**: Use this field set to assign scopes for the OAuth2 authentication endpoint for the account. It is recommended to define at least one scope entry in this fieldset. Click ![https://docs-snaplogic.atlassian.net/wiki/download/attachments/896369522/Plus.png?version=1\&modificationDate=1579553898874\&cacheVersion=1\&api=v2](<../.gitbook/assets/0 (2) (1)>) on the right of the field to add a row. This field set comprises the following fields:
   * Authentication parameter
   * Authentication parameter value
 * **Auto-refresh token**: Select this to refresh the access token automatically.
