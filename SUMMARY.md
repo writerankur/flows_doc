@@ -68,8 +68,9 @@
 ## Sharepoint Online <a href="#sharepoint" id="sharepoint"></a>
 
 * [Sharepoint overview](sharepoint/sharepoint\_overview.md)
+* [Select your SharePoint Online account](sharepoint/account\_overview.md)
 * [Select your SharePoint data source type](sharepoint/sharepoint\_file\_type.md)
-* [Configure your SharePoint Online account settings](sharepoint/sharepoint\_account\_settings.md)
+* [Configure your SharePoint Online account settings](sharepoint/com-rojoconsultancy-snaps-sharepointonline-account-sharepointonlineaccount.md)
 
 ## ServiceNow
 
@@ -156,9 +157,10 @@
   * [Configure your ServiceNow OAuth2 Account](trg\_servicenow/com-snaplogic-snaps-servicenow-servicenowoauth2account.md)
   * [Select your ServiceNow account type](trg\_servicenow/account\_overview.md)
 * [SharePoint Online - Target endpoint](trg\_sharepoint/README.md)
-  * [Configure your SharePoint Online account settings](trg\_sharepoint/configure-your-sharepoint-online-account-settings.md)
+  * [Configure your SharePoint Online account settings](trg\_sharepoint/com-rojoconsultancy-snaps-sharepointonline-account-sharepointonlineaccount.md)
   * [Configure SharePoint Online Data Delivery Type](trg\_sharepoint/trg\_sharepoint\_file\_type.md)
   * [SharePoint Online overview](trg\_sharepoint/trg\_sharepoint\_overview.md)
+  * [Select your SharePoint Online account](trg\_sharepoint/account\_overview.md)
 * [Write to Pipeline - Target endpoint](trg\_write\_to\_pipeline/README.md)
   * [Write to Pipeline overview](trg\_write\_to\_pipeline/trg\_write\_to\_pipeline\_overview.md)
 * [MS Teams - Target endpoint](trg\_ms\_teams/README.md)
