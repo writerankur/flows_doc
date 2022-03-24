@@ -141,7 +141,7 @@
   * [Select Snaplogic File System Writer Data Collection Type](trg\_snaplogic\_fsr/trg\_snaplogic\_fsr\_file\_type.md)
   * [Configure Snaplogic File System Writer account settings](trg\_snaplogic\_fsr/trg\_snaplogic\_fsr\_account\_settings.md)
   * [Configure your AWS S3 Account](trg\_snaplogic\_fsr/com-snaplogic-snaps-binary-binarys3account.md)
-  * [Select your SnapLogic File System Writer Account](trg\_snaplogic\_fsr/select-your-snaplogic-file-system-writer-account.md)
+  * [Select your SnapLogic File System Writer Account](trg\_snaplogic\_fsr/account\_overview.md)
   * [Configure Your Azure Data Lake Account](trg\_snaplogic\_fsr/configure-your-azure-data-lake-account.md)
   * [Configure your Google Storage Account](trg\_snaplogic\_fsr/configure-your-google-storage-account.md)
   * [Configure your S3 Dynamic Account](trg\_snaplogic\_fsr/configure-your-s3-dynamic-account.md)
