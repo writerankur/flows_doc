@@ -129,6 +129,7 @@
   * [MySQL overview](trg\_mysql/trg\_mysql\_overview.md)
   * [Configure MySQL account settings](trg\_mysql/trg\_mysql\_account\_settings.md)
   * [Enter the MySQL schema information](trg\_mysql/trg\_mysql\_settings.md)
+  * [Select your MySQL account type](trg\_mysql/select-your-mysql-account-type.md)
 * [Marketo - Target endpoint](trg\_marketo/README.md)
   * [Marketo overview](trg\_marketo/trg\_marketo\_overview.md)
   * [Select your Marketo account type](trg\_marketo/account\_overview.md)
