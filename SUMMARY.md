@@ -58,20 +58,18 @@
 
 ## SnapLogic File System Reader <a href="#snaplogic_fsr" id="snaplogic_fsr"></a>
 
-* [SnapLogic File System Reader overview](snaplogic\_fsr/snaplogic\_fsr\_overview.md)
-* [Configure Azure Data Lake Account](snaplogic\_fsr/com-snaplogic-snaps-binary-azuredatalakeaccount.md)
+* [SnapLogic File System Reader overview](snaplogic\_fsr/snaplogic\_fsr\_file\_type.md)
+* [Select your SnapLogic File System Reader account](snaplogic\_fsr/account\_overview.md)
 * [Configure your AWS S3 Account](snaplogic\_fsr/com-snaplogic-snaps-binary-binarys3account.md)
+* [Configure Azure Data Lake Account](snaplogic\_fsr/com-snaplogic-snaps-binary-azuredatalakeaccount.md)
 * [Configure Azure Storage Account](snaplogic\_fsr/com-snaplogic-snaps-binary-binaryazureaccount.md)
-* [Configure Basic Auth account](snaplogic\_fsr/com-snaplogic-snaps-binary-binarybasicauthaccount.md)
 * [Configure Google Service account](snaplogic\_fsr/com-snaplogic-snaps-binary-googleserviceaccount.md)
+* [Configure Basic Auth account](snaplogic\_fsr/com-snaplogic-snaps-binary-binarybasicauthaccount.md)
 * [Configure Google Storage account](snaplogic\_fsr/com-snaplogic-snaps-binary-googlestorageaccount.md)
 * [Configure S3 Dynamic account](snaplogic\_fsr/com-snaplogic-snaps-binary-binarys3dynamicaccount.md)
 * [Configure SMB Account](snaplogic\_fsr/com-snaplogic-snaps-binary-binarysmbaccount.md)
 * [Configure SSH Auth account](snaplogic\_fsr/com-snaplogic-snaps-binary-binarysshaccount.md)
 * [Configure Two-Factor Auth account](snaplogic\_fsr/com-snaplogic-snaps-binary-binarytwofactorsshaccount.md)
-* [SnapLogic File System Reader overview](snaplogic\_fsr/snaplogic\_fsr\_file\_type.md)
-* [Select your SnapLogic File System Reader account](snaplogic\_fsr/account\_overview.md)
-* [Configure Snaplogic File System Writer account settings](snaplogic\_fsr/snaplogic\_fsr\_account\_settings.md)
 
 ## Sharepoint Online <a href="#sharepoint" id="sharepoint"></a>
 
@@ -151,12 +149,10 @@
   * [Configure Box account settings](trg\_box/com-snaplogic-snaps-box-boxaccount.md)
   * [Select Box data collection type](trg\_box/trg\_box\_file\_type.md)
 * [Snaplogic File System Writer - Target endpoint](trg\_snaplogic\_fsr/README.md)
-  * [Snaplogic File System Writer overview](trg\_snaplogic\_fsr/trg\_snaplogic\_fsr\_overview.md)
-  * [Select Snaplogic File System Writer Data Collection Type](trg\_snaplogic\_fsr/trg\_snaplogic\_fsr\_file\_type.md)
-  * [Configure Snaplogic File System Writer account settings](trg\_snaplogic\_fsr/trg\_snaplogic\_fsr\_account\_settings.md)
+  * [Snaplogic File System Writer Overview](trg\_snaplogic\_fsr/trg\_snaplogic\_fsr\_file\_type.md)
+  * [Select your SnapLogic File System Writer Account](trg\_snaplogic\_fsr/account\_overview.md)
   * [Configure Basic Auth account](trg\_snaplogic\_fsr/com-snaplogic-snaps-binary-binarybasicauthaccount.md)
   * [Configure your AWS S3 Account](trg\_snaplogic\_fsr/com-snaplogic-snaps-binary-binarys3account.md)
-  * [Select your SnapLogic File System Writer Account](trg\_snaplogic\_fsr/account\_overview.md)
   * [Configure Your Azure Data Lake Account](trg\_snaplogic\_fsr/com-snaplogic-snaps-binary-azuredatalakeaccount.md)
   * [Configure your Google Storage Account](trg\_snaplogic\_fsr/com-snaplogic-snaps-binary-googlestorageaccount.md)
   * [Configure your S3 Dynamic Account](trg\_snaplogic\_fsr/com-snaplogic-snaps-binary-binarys3dynamicaccount.md)
