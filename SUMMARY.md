@@ -33,6 +33,8 @@
 * [Select your REST account type](rest/rest\_select\_account.md)
 * [Configure your REST account information](rest/rest\_account\_settings.md)
 * [Enter the REST Service URL](rest/rest\_service\_url.md)
+* [Configure your REST OAuth2 account](rest/configure-your-rest-oauth2-account.md)
+* [Configure your REST Basic Auth account](rest/configure-your-rest-basic-auth-account.md)
 * [Configure your REST Dynamic OAuth2 account](rest/configure-your-rest-dynamic-oauth2-account.md)
 * [Configure your REST OAuth1 account](rest/configure-your-rest-oauth1-account.md)
 * [Configure your REST NTLM account](rest/configure-your-rest-ntlm-account.md)
