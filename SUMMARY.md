@@ -120,6 +120,7 @@
   * [Slack overview](trg\_slack/trg\_slack\_overview.md)
   * [Configure your Slack account settings](trg\_slack/trg\_slack\_account\_settings.md)
   * [Configure Slack settings](trg\_slack/trg\_slack\_target\_type.md)
+  * [Configure your Slack Dynamic OAuth2 account](trg\_slack/configure-your-slack-dynamic-oauth2-account.md)
   * [Configure your Slack Generic OAuth2 Bot Token account](trg\_slack/configure-your-slack-generic-oauth2-bot-token-account.md)
   * [Configure your Slack Generic OAuth2 User Token account](trg\_slack/configure-your-slack-generic-oauth2-user-token-account.md)
 * [Email Sender - Target endpoint](trg\_email\_sender/README.md)
