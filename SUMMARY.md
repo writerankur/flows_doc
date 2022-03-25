@@ -32,14 +32,14 @@
 * [REST overview](rest/rest\_overview.md)
 * [Select your REST account type](rest/account\_overview.md)
 * [Enter the REST Service URL](rest/rest\_service\_url.md)
-* [Configure your REST SSL account](rest/configure-your-rest-ssl-account.md)
-* [Configure your REST OAuth2 SSL account](rest/configure-your-rest-oauth2-ssl-account.md)
-* [Configure your REST OAuth2 account](rest/configure-your-rest-oauth2-account.md)
-* [Configure your REST Basic Auth account](rest/configure-your-rest-basic-auth-account.md)
-* [Configure your REST Dynamic OAuth2 account](rest/configure-your-rest-dynamic-oauth2-account.md)
-* [Configure your REST OAuth1 account](rest/configure-your-rest-oauth1-account.md)
-* [Configure your REST NTLM account](rest/configure-your-rest-ntlm-account.md)
-* [Configure your REST AWS Sig v4 account](rest/configure-your-rest-aws-sig-v4-account.md)
+* [Configure your REST SSL account](rest/com-snaplogic-snaps-rest-restsslaccount.md)
+* [Configure your REST OAuth2 SSL account](rest/com-snaplogic-snaps-rest-restssloauth2account.md)
+* [Configure your REST OAuth2 account](rest/com-snaplogic-snaps-rest-restoauth2account.md)
+* [Configure your REST Basic Auth account](rest/com-snaplogic-snaps-rest-restbasicauthaccount.md)
+* [Configure your REST Dynamic OAuth2 account](rest/com-snaplogic-snaps-rest-restdynamicoauth2account.md)
+* [Configure your REST OAuth1 account](rest/com-snaplogic-snaps-rest-restoauth1account.md)
+* [Configure your REST NTLM account](rest/com-snaplogic-snaps-rest-restntlmaccount.md)
+* [Configure your REST AWS Sig v4 account](rest/com-snaplogic-snaps-rest-restawsv4account.md)
 
 ## Marketo
 
