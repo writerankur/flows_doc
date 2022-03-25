@@ -33,6 +33,8 @@
 * [Select your REST account type](rest/rest\_select\_account.md)
 * [Configure your REST account information](rest/rest\_account\_settings.md)
 * [Enter the REST Service URL](rest/rest\_service\_url.md)
+* [Configure your REST NTLM account](rest/configure-your-rest-ntlm-account.md)
+* [Configure your REST AWS Sig v4 account](rest/configure-your-rest-aws-sig-v4-account.md)
 
 ## Marketo
 
@@ -120,6 +122,7 @@
   * [Slack overview](trg\_slack/trg\_slack\_overview.md)
   * [Configure your Slack account settings](trg\_slack/trg\_slack\_account\_settings.md)
   * [Configure Slack settings](trg\_slack/trg\_slack\_target\_type.md)
+  * [Select your Slack account type](trg\_slack/select-your-slack-account-type.md)
   * [Configure your Slack Dynamic OAuth2 account](trg\_slack/configure-your-slack-dynamic-oauth2-account.md)
   * [Configure your Slack Generic OAuth2 Bot Token account](trg\_slack/configure-your-slack-generic-oauth2-bot-token-account.md)
   * [Configure your Slack Generic OAuth2 User Token account](trg\_slack/configure-your-slack-generic-oauth2-user-token-account.md)
@@ -132,6 +135,8 @@
   * [MySQL overview](trg\_mysql/trg\_mysql\_overview.md)
   * [Configure MySQL account settings](trg\_mysql/trg\_mysql\_account\_settings.md)
   * [Enter the MySQL schema information](trg\_mysql/trg\_mysql\_settings.md)
+  * [Configure your MySQL Dynamic account](trg\_mysql/configure-your-mysql-dynamic-account.md)
+  * [Configure your MySQL Database account](trg\_mysql/configure-your-mysql-database-account.md)
   * [Select your MySQL account type](trg\_mysql/select-your-mysql-account-type.md)
 * [Marketo - Target endpoint](trg\_marketo/README.md)
   * [Marketo overview](trg\_marketo/trg\_marketo\_overview.md)
