@@ -6,4 +6,3 @@
   * _Users_. Send a message to one or more individual users. Requires **Users**.
 * **Channel**: Select a channel to add more channels from the dropdown list.
 * **Message**: Enter the updated message to send to the same set of recipients.
-* Use the **Map Data** option to apply the mapping between the data of fields uploaded by the source endpoint to the same of the target endpoint.
